@@ -13,8 +13,9 @@ Bodega:
 ![Bodega - EVOCOM 1](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom1.jpg)
 
 ## Prototipo de hardware
-Se crea un dispositivo de apoyo para la lectura de datos gps de las gafas BT300
+Se crea un dispositivo de apoyo para la lectura de datos gps de las gafas BT300:
 
+![Dispositivo Lectura GPS Hardware apoyo ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/CircuitoIoT.png)
 
 ## Prototipo de la applicación
 La aplicación funciona sobre el sistema android 7 que utilizan las smartglass, en su primera versión simplemente presenta información de lectura de los sensores del dispositivo de realidad aumentada.
