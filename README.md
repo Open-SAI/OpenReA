@@ -8,9 +8,9 @@ Este es el repositorio de recursos del proyecto descrito en http://rea.opensai.o
 
 Bodega:
 
-![Bodega - EVOCOM](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom0.jpg)
+![Bodega - EVOCOM 0](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom0.jpg)
 
-![Bodega - EVOCOM](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom1.jpg)
+![Bodega - EVOCOM 1](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom1.jpg)
 
 
 
