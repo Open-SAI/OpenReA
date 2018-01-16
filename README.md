@@ -8,7 +8,7 @@ Este es el repositorio de recursos del proyecto descrito en http://rea.opensai.o
 
 Bodega:
 
-![Bodega - EVOCOM 0](/Análisis de requerimientos, captura de datos en campo para proceso de diseño del prototipo/Imagenes/bodegaevocom0.jpg)
+<img src="Análisis de requerimientos, captura de datos en campo para proceso de diseño del prototipo/Imagenes/bodegaevocom0.jpg">
 
 <img src="Análisis de requerimientos, captura de datos en campo para proceso de diseño del prototipo/Imagenes/bodegaevocom1.jpg">
 
