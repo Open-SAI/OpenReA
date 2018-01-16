@@ -1,0 +1,60 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb]
+  \centering
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=7cm, height=5.0cm, angle=0]{carro.png}}
+  \caption{\footnotesize Vehículo motorizado FREEinfraROSI. Autor (2017).}
+  \label{fig:carro}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb]
+  \centering
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=7cm, height=5.0cm, angle=0]{arduino.png}}
+  \caption{\footnotesize Placa micro controladora Arduino uno. Fritzing.}
+  \label{fig:Arduino}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb]
+  \centering
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=7cm, height=5.0cm, angle=0]{ESP8266.png}}
+  \caption{\footnotesize Imagen  del módulo \texttt{ESP8266}, tomada de la pagina oficial del proyecto  arduino  IDE.}
+  \label{fig:ESP}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb]
+  \centering
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=7cm, height=5.0cm, angle=0]{AT-COMAND.png}}
+  \caption{\footnotesize Comandos AT para control del dispositivo \texttt{ESP8266}; imagen tomada de la documentación del módulo.}
+  \label{fig:AT}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb]
+  \centering
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=7cm, height=5.0cm, angle=0]{epson.png}}
+  \caption{\footnotesize \texttt{smart glass BT-200 de EPSON}, imagen tomada de la pagina oficial de EPSON. }
+  \label{fig:gafas}
+\end{figure*}
+\efloatseparator
+ 

@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Fombona~Cadavieco%
+, Pascual~Sevillano%
+\BCBL {}\ \BBA {} Ferreira~Amador%
+}{%
+Fombona~Cadavieco%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+fombona2012realidad}
+\APACinsertmetastar {%
+fombona2012realidad}%
+\begin{APACrefauthors}%
+Fombona~Cadavieco, J.%
+, Pascual~Sevillano, M\BPBI {\'A}.%
+\BCBL {}\ \BBA {} Ferreira~Amador, M\BPBI F\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Realidad aumentada, una evoluci{\'o}n de las
+  aplicaciones de los dispositivos m{\'o}viles} {Realidad aumentada, una
+  evoluci{\'o}n de las aplicaciones de los dispositivos m{\'o}viles}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Pixel-Bit. Revista de medios y educaci{\'o}n}{}{41}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Telef{\'o}nica%
+}{%
+Telef{\'o}nica%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+telefonica2011realidad}
+\APACinsertmetastar {%
+telefonica2011realidad}%
+\begin{APACrefauthors}%
+Telef{\'o}nica, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2011}.
+\newblock
+\APACrefbtitle {Realidad Aumentada: una nueva lente para ver el mundo}
+  {Realidad aumentada: una nueva lente para ver el mundo}.
+\newblock
+\APACaddressPublisher{}{Fundaci{\'o}n Telef{\'o}nica}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
