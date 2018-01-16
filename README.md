@@ -10,7 +10,7 @@ Bodega:
 
 ![Bodega - EVOCOM 0](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom0.jpg)
 
-![Bodega - EVOCOM 1](https://raw.githubusercontent.com/Open-SAI/ReA/master/Imagenes/bodegaevocom1.jpg)
+![Bodega - EVOCOM 1]("https://raw.githubusercontent.com/Open-SAI/ReA/master/Análisis de requerimientos, captura de datos en campo para proceso de diseño del prototipo/Imagenes/bodegaevocom1.jpg")
 
 ## Prototipo de hardware
 Se crea un dispositivo de apoyo para la lectura de datos gps de las gafas BT300:
