@@ -1,4 +1,4 @@
-HARDWARE: 
+# HARDWARE: 
 * Hojas de datos del fabricante de los dispositivos eléctronicos usados:
   * Selección de los dispositivos eléctronicos.
     * Tecnologias de comunicación:
@@ -9,7 +9,7 @@ HARDWARE:
 
 * Diseño y creación de la placa "PCB".
 
-SOFTWARE:
+# SOFTWARE:
 
 * Desarrollo de firmware:
   * WIFI
