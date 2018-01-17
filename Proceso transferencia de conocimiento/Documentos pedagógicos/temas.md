@@ -35,35 +35,49 @@
 
 
 
-* Desarrollo Apps multiplatafoma con python:
-  * Kivy:
-    * desarrollo de interfaces de usuario 
-    * Logíca y funcionamiento de la App
-    * jnius:
-    * Integración de librerias y funcionalidades
-      * Cámara
-      * qr code / zbar
-      * Wifi
-      * BLUETOOTH
-        * geoposicionamiento
-        * RFID 
-      * GPS (dispositivo android)    
+* Desarrollo Apps multiplatafoma con python (cápsula, contexto):
+  * Python for android (Ínfografia)
+    * Kivy (cápsula, contexto):
+      * desarrollo de interfaces de usuario 
+        * lenguaje python-kivy (Videotutorial)
+          * Screen
+          * Label
+          * Widget
+          * Buttons
+          * Camara
+          * Capas
+          * Audio
+          * App
+          * Sintetizador de voz
+          * lenguaje kv
+          * Programación modular
+ 
+      * Logíca, funcionamiento y uso de sensores en la App (Video tutorial).
+        * Integración de librerias y funcionalidades con python-jnius
+        * Cámara
+        * qr code / zbar
+        * Wifi
+        * BLUETOOTH (Vídeo, tip)
+          * geoposicionamiento
+          * RFID 
+        * GPS (dispositivo android)    
 
-  * buildozer:
-    * Generación y empaquetado de las aplicaciones.
+      * buildozer (Vídeo tutorial)
+        * Generación y empaquetado de las aplicaciones.
 
-* Stack aplicaciones web:
+* Stack aplicaciones web (Vídeo tutorial): 
   * Servicio Web:
 
-* Versionamiento y pruebas de software:
-  * Git
-  * Github
-  * Pruebas de calidad.
+* Versionamiento y pruebas de software :
+  * Github (cápsula, Práctica).
+  * Pruebas de calidad (cápsula, tip).
 
-* Documentación científica:
+* Documentación científica (Vídeo tutorial).: 
   * Latex: Generación de textos científicos y de investigación. 
 
 * Caja de Herramientas:
-  * Arduino IDE
-  * Fritzing PCB-suite
-  * Emacs editor
+  * Arduino IDE (cápsula, Práctica).
+  * Fritzing PCB-suite (cápsula, Práctica).
+  * Emacs editor (cápsula, Práctica).
+  * Python (Guía de supervivencia)
+  * Comandos de consola (Guía de supervivencia)
