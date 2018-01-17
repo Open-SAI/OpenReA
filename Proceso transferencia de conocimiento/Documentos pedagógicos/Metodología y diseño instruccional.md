@@ -3,7 +3,7 @@ Metodología virtual autodidacta para la transferencia de conocimiento.
 Componentes:
 * Índice temático.
 * Material didáctico pedagogíco:
-	** Cápsulas de vídeo
+  * Cápsulas de vídeo
 	** Infografías
 	** Talleres presenciales.
 	** Guías de supervivencia.
