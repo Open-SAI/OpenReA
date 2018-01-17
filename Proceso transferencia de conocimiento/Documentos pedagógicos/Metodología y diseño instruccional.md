@@ -4,10 +4,10 @@ Componentes:
 * Índice temático.
 * Material didáctico pedagogíco:
   * Cápsulas de vídeo
-	** Infografías
-	** Talleres presenciales.
-	** Guías de supervivencia.
-	** Vídeo tutorial de las temáticas.
+  * Infografías
+  * Talleres presenciales.
+  * Guías de supervivencia.
+  * Vídeo tutorial de las temáticas.
 * Evaluación:
 	** Sistema virtual de evaluación:
 		*** Incluye banco de preguntas.
