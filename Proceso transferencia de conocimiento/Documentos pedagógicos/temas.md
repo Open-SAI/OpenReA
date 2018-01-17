@@ -57,7 +57,7 @@
         * Cámara
         * qr code / zbar
         * Wifi
-        * BLUETOOTH (Vídeo, tip)
+        * BLUETOOTH (cápsula, tip)
           * geoposicionamiento
           * RFID 
         * GPS (dispositivo android)    
