@@ -1,3 +1,5 @@
+## ÍNDICE TEMÁTICO
+
 ### HARDWARE: 
 * Hojas de datos del fabricante de los dispositivos eléctronicos usados:
   * Selección de los dispositivos eléctronicos.
