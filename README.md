@@ -21,3 +21,15 @@ Se crea un dispositivo de apoyo para la lectura de datos gps de las gafas BT300:
 La aplicación funciona sobre el sistema android 7 que utilizan las smartglass, en su primera versión simplemente presenta información de lectura de los sensores del dispositivo de realidad aumentada.
 
 [Video Requerimiento](https://www.youtube.com/watch?v=rkmjc7l1K40)
+
+### Métricas de trabajo pedagógico
+* Horas de vídeo: 18 horas
+* Horas de edición: 23 horas
+* Ínfografias: 3 horas 
+* Guía de supervivencia: 10 horas
+#### Total horas recursos pedagógicos didácticos: 54 horas (7 días, 8 horas laborables)
+
+### Métricas de documentación
+*  8 días, 64 horas.
+Suceptible a posicles modificaciones.
+
