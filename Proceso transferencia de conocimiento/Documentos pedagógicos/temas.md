@@ -60,7 +60,7 @@
         * BLUETOOTH (cápsula, tip)
           * geoposicionamiento
           * RFID 
-        * GPS (dispositivo android)    
+        * GPS (Cápsula, tip)    
 
       * buildozer (Vídeo tutorial)
         * Generación y empaquetado de las aplicaciones.
