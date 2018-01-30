@@ -50,11 +50,10 @@
           * App
           * Sintetizador de voz
           * lenguaje kv
-          * Programación modular
+          * Programación modula
  
       * Logíca, funcionamiento y uso de sensores en la App (Video tutorial).
         * Integración de librerias y funcionalidades con python-jnius
-        * Cámara
         * qr code / zbar
         * Wifi
         * BLUETOOTH (cápsula, tip)
