@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="0.9.0" root="/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas editadas/Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto)/files" LC_NUMERIC="es_CO.UTF-8">
+ <profile width="1440" display_aspect_den="9" colorspace="709" frame_rate_den="1" description="HDV 1440x1080i 25 fps" height="1080" display_aspect_num="16" frame_rate_num="25" progressive="0" sample_aspect_num="4" sample_aspect_den="3"/>
+ <producer in="0" out="15251" id="black">
+  <property name="mlt_type">producer</property>
+  <property name="length">15252</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+ </producer>
+ <playlist id="black_track">
+  <entry in="0" out="10108" producer="black"/>
+ </playlist>
+ <playlist id="playlist1"/>
+ <playlist id="playlist2"/>
+ <playlist id="playlist3"/>
+ <producer in="0" out="7625" id="4_1">
+  <property name="mlt_type">producer</property>
+  <property name="length">7626</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas editadas/BLUETOOTH (cápsula, Práctica)/files/Shinichi_408-in-the-morning-320.mp3</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.title.markup">408 in the morning</property>
+  <property name="meta.attr.artist.markup">Shinichi</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <playlist id="playlist4">
+  <entry in="0" out="7625" producer="4_1"/>
+  <entry in="0" out="2482" producer="4_1"/>
+ </playlist>
+ <producer in="0" out="192" id="2">
+  <property name="mlt_type">producer</property>
+  <property name="length">193</property>
+  <property name="eof">pause</property>
+  <property name="resource">portadaSENAcontenidos.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+ </producer>
+ <producer in="0" out="9723" id="1">
+  <property name="mlt_type">producer</property>
+  <property name="length">9724</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas/Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">15</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1064</property>
+  <property name="meta.media.0.codec.height">566</property>
+  <property name="meta.media.0.codec.frame_rate">15</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv444p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">628164</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2018-01-22 14:03:34</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">1</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">112914</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2018-01-22 14:03:34</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">mp42mp41isomiso2</property>
+  <property name="meta.attr.creation_time.markup">2018-01-22 14:03:34</property>
+  <property name="meta.attr.encoder.markup">x264</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mlt_service">avformat</property>
+  <property name="meta.media.frame_rate_num">15</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.width">1064</property>
+  <property name="meta.media.height">566</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer in="0" out="191" id="3">
+  <property name="mlt_type">producer</property>
+  <property name="length">192</property>
+  <property name="eof">pause</property>
+  <property name="resource">creditosSENAcontenidos.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+ </producer>
+ <playlist id="playlist5">
+  <entry in="0" out="192" producer="2">
+   <filter out="75" id="fade_from_black">
+    <property name="track">0</property>
+    <property name="start">0</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+   <filter in="117" out="192" id="fade_to_black">
+    <property name="track">0</property>
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <entry in="0" out="9723" producer="1">
+   <filter in="9648" out="9723" id="filter0">
+    <property name="track">0</property>
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <entry in="0" out="191" producer="3">
+   <filter in="116" out="191" id="filter1">
+    <property name="track">0</property>
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <tractor title="Anonymous Submission" global_feed="1" in="0" out="10108" id="maintractor">
+  <property name="meta.volume">1</property>
+  <track producer="black_track"/>
+  <track hide="video" producer="playlist1"/>
+  <track hide="video" producer="playlist2"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">1</property>
+   <property name="b_track">2</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">1</property>
+   <property name="b_track">3</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">1</property>
+   <property name="b_track">4</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">1</property>
+   <property name="b_track">5</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+ <kdenlivedoc profile="hdv_1080_50i" kdenliveversion="0.9.8" version="0,88" projectfolder="/home/diego/kdenlive">
+  <customeffects/>
+  <documentproperties documentid="1517627044981" renderdestination="" renderrescalewidth="320" proxyextension="ts" generateproxy="0" proxyimageminsize="2000" rendertctype="0" verticalzoom="1" renderprofile="Mobile devices" renderrescaleheight="240" zonein="0" renderrescale="0" renderscanning="0" renderurl="/home/diego/kdenlive/Selección_de_las_tecnólogias_de_comunicación_para_el_dispositivo.mp4" rendertwopass="0" renderplay="0" position="0" proxyminsize="1000" renderstartguide="-1" zoom="8" renderratio="0" rendercategory="Mobile devices" zoneout="100" renderzone="0" renderendguide="-1" renderexportaudio="0" proxyparams="-f mpegts -acodec libmp3lame -ac 2 -ab 128k -ar 48000 -vcodec mpeg2video -g 5 -deinterlace -s 640x360 -vb 700k" enableproxy="0" generateimageproxy="0" renderguide="0" rendertcoverlay="0"/>
+  <documentmetadata/>
+  <documentnotes>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans Serif'; font-size:8pt; font-weight:400; font-style:normal;">
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></documentnotes>
+  <profileinfo width="1440" display_aspect_den="9" frame_rate_den="1" description="HDV 1440x1080i 25 fps" height="1080" frame_rate_num="25" display_aspect_num="16" progressive="0" sample_aspect_num="4" sample_aspect_den="3"/>
+  <tracksinfo>
+   <trackinfo blind="1" mute="0" locked="0" trackname="Audio 2" type="audio"/>
+   <trackinfo blind="1" mute="0" locked="0" trackname="Audio 1" type="audio"/>
+   <trackinfo blind="0" mute="0" locked="0" trackname="Video 3"/>
+   <trackinfo blind="0" mute="0" locked="0" trackname="Video 2"/>
+   <trackinfo blind="0" mute="0" locked="0" trackname="Video 1"/>
+  </tracksinfo>
+  <kdenlive_producer audio_max="63" id="1" pix_fmt="yuv444p" default_video="0" fps="15" analysisdata="" name="Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).mp4" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas/Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).mp4" default_audio="1" audiocodec="MP3 (MPEG audio layer 3)" duration="9724" file_hash="6037855ac53f7984acc60cb2b8e27f76" aspect_ratio="1" channels="1" frequency="44100" video_max="0" progressive="1" type="3" frame_size="1064x566" file_size="36202343">
+   <metaproperty tool="" name="meta.attr.0.stream.creation_time">2018-01-22 14:03:34</metaproperty>
+   <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
+   <metaproperty tool="" name="meta.attr.1.stream.creation_time">2018-01-22 14:03:34</metaproperty>
+   <metaproperty tool="" name="meta.attr.1.stream.language">eng</metaproperty>
+   <metaproperty tool="" name="meta.attr.compatible_brands">mp42mp41isomiso2</metaproperty>
+   <metaproperty tool="" name="meta.attr.creation_time">2018-01-22 14:03:34</metaproperty>
+   <metaproperty tool="" name="meta.attr.encoder">x264</metaproperty>
+   <metaproperty tool="" name="meta.attr.major_brand">mp42</metaproperty>
+   <metaproperty tool="" name="meta.attr.minor_version">0</metaproperty>
+  </kdenlive_producer>
+  <kdenlive_producer duration="125" frame_size="1536x1152" in="0" analysisdata="" file_size="20855" aspect_ratio="1" out="124" file_hash="8b3689bde6f5a0e478ea7eabb0eefa07" type="5" id="2" name="portadaSENAcontenidos.svg" resource="/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas editadas/Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto)/files/portadaSENAcontenidos.svg"/>
+  <kdenlive_producer duration="125" frame_size="1536x1152" in="0" analysisdata="" file_size="30977" aspect_ratio="1" out="124" file_hash="1c6acc37afe7df14dc5705c6c3cea2c8" type="5" id="3" name="creditosSENAcontenidos.svg" resource="/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas editadas/Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto)/files/creditosSENAcontenidos.svg"/>
+  <kdenlive_producer audio_max="63" audiocodec="MP3 (MPEG audio layer 3)" channels="2" duration="7626" frame_size="1440x1080" frequency="44100" analysisdata="" file_size="12203715" aspect_ratio="0" file_hash="ca5a64b00ca1ac06b7c0a4aa974b58be" type="1" id="4" name="Shinichi_408-in-the-morning-320.mp3" resource="/home/diego/OpenReA/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Cápsulas editadas/BLUETOOTH (cápsula, Práctica)/files/Shinichi_408-in-the-morning-320.mp3">
+   <metaproperty tool="" name="meta.attr.artist">Shinichi</metaproperty>
+   <metaproperty tool="" name="meta.attr.title">408 in the morning</metaproperty>
+  </kdenlive_producer>
+  <markers/>
+  <groups/>
+ </kdenlivedoc>
+</mlt>
