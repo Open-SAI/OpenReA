@@ -3,8 +3,6 @@
 ### HARDWARE: 
 * Diseño del dispositivo de hardware.
     * Requerimientos y arquitectura del dispositivo (cápsula,contexto).
-    <video src="tuvideo.mp4"> <embed src="tuvideo.mpg" />  </video>
-
     * Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).
       * Microcontrolador Atmega328-PPU (cápsula, Práctica).
       * RFID (cápsula, Práctica).
