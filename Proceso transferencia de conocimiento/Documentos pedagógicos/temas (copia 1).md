@@ -3,7 +3,6 @@
 ### HARDWARE: 
 * Diseño del dispositivo de hardware.
     * Requerimientos y arquitectura del dispositivo (cápsula,contexto).
-    [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
     * Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).
       * Microcontrolador Atmega328-PPU (cápsula, Práctica).
       * RFID (cápsula, Práctica).
