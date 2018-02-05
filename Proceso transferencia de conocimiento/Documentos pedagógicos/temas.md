@@ -3,8 +3,8 @@
 ### HARDWARE: 
 * Diseño del dispositivo de hardware.
     * Requerimientos y arquitectura del dispositivo (cápsula,contexto).
-    <video src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/C%C3%A1psulas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica).mp4" controls="controls" loop="loop" width="200" height="200"><video>	
-    <iframe width="854" height="480" src="https://www.youtube.com/embed/yrRPLBYiiEc" frameborder="0" allowfullscreen></iframe>
+    <video src="tuvideo.mp4"> <embed src="tuvideo.mpg" />  </video>
+
     * Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).
       * Microcontrolador Atmega328-PPU (cápsula, Práctica).
       * RFID (cápsula, Práctica).
