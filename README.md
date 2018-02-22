@@ -1,3 +1,5 @@
+title>Mi página web Me encanta wikiHow porque <marquee>¡es la mejor página del mundo!</marquee> ![](http://www.wikihow.com/skins/common/images/wikiHow_logo_5.gif)
+
 # [Re]alidad [A]umentada
 ## Prototipo de Realidad Aumentada aplicado a procesos logísticos
 Este es el repositorio de recursos del proyecto descrito en http://rea.opensai.org.
