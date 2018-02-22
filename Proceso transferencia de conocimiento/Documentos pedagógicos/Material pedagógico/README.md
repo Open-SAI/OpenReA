@@ -6,6 +6,9 @@ _________
 
 * Diseño del dispositivo de hardware.
     * **Requerimientos y arquitectura del dispositivo (cápsula,contexto).**
+    
+      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Requerimientos%20y%20arquitectura%20del%20dispositivo%20(c%C3%A1psula%2Ccontexto).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Requerimientos%20y%20arquitectura%20del%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Requerimientos_y_arquitectura_del_dispositivo.webm "link directo al vídeo")
+
     * **Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).**
 
       En esta sección se habla sobre los dispositivos de comunicación a utilizar en algún proyecto  dando las ventajas y desventajas de los mismos como se observa en el vídeo.
