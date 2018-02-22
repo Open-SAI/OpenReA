@@ -1,4 +1,5 @@
 Descripción material pedagogíco
+===============================
 * Cápsulas: Vídeos prácticos de máximo 3 minutos.
   * Práctica: vídeotutorial de  una práctica especifíca.
   * contexto: Presentación global de un tema practico en vídeo. 
