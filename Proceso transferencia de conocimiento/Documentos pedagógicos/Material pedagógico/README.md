@@ -1,6 +1,9 @@
-## ÍNDICE TEMÁTICO
+ÍNDICE TEMÁTICO
+===============
 
-### HARDWARE: 
+HARDWARE:
+_________
+
 * Diseño del dispositivo de hardware.
     * Requerimientos y arquitectura del dispositivo (cápsula,contexto).
     * Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).
@@ -24,7 +27,9 @@
 
 
 
-### SOFTWARE:
+SOFTWARE:
+_________
+
 * Desarrollo de firmware (cápsula, contexto)
   * WIFI (cápsula, tips)
   * ATMEGA 328 PPU (videotutorial)
