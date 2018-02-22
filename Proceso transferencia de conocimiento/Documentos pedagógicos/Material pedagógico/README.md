@@ -33,19 +33,19 @@ _________
       
       * **BLUETOOTH (cápsula, Práctica).**
       
-      En esta vídeo cápsula se realiza una contextualización de la tecnología Bluetooth y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo HC-05 y HC-06; como se muestra en el siguiente vídeo.
+        En esta vídeo cápsula se realiza una contextualización de la tecnología Bluetooth y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo HC-05 y HC-06; como se muestra en el siguiente vídeo.
 
         [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Bluetooth.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Bluetooth.webm "link directo al vídeo")    
       
       * **WIFI (cápsula, Práctica).**
       
-      En esta vídeo cápsula se realiza una contextualización de la tecnología WIFI y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo ESP8266; como se muestra en el siguiente vídeo.
+        En esta vídeo cápsula se realiza una contextualización de la tecnología WIFI y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo ESP8266; como se muestra en el siguiente vídeo.
       
         [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/WIFI.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/WIFI%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/WIFI.webm "link directo al vídeo")
 	
       * **GPS  (cápsula, Práctica).**
       
-      En esta vídeo cápsula se realiza una contextualización de la tecnología GPS y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo GPS-neo-6m; como se muestra en el siguiente vídeo.
+        En esta vídeo cápsula se realiza una contextualización de la tecnología GPS y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo GPS-neo-6m; como se muestra en el siguiente vídeo.
 
         [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/GPS.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/GPS%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/GPS.webm "link directo al vídeo")
 
@@ -55,9 +55,9 @@ _________
 	
     * __Diseño del circuito eléctrico (cápsula,tips).__
 
-    En esta sección se aborda el tema de diseño de circuitos eléctricos bajo la IDE de fritzing. Para más detalle ver el siguiente vídeo.
+      En esta sección se aborda el tema de diseño de circuitos eléctricos bajo la IDE de fritzing. Para más detalle ver el siguiente vídeo.
 
-    [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico%20(c%C3%A1psula%2Ctips)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_del_circuito_el%C3%A9ctrico.webm "link directo al vídeo")
+      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico%20(c%C3%A1psula%2Ctips)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_del_circuito_el%C3%A9ctrico.webm "link directo al vídeo")
 
 
     * Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).
