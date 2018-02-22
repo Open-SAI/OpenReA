@@ -20,4 +20,4 @@ ____________
   * Evidencia en vídeo del trabajo del estudiante. 
   * Retroalimentación virtual.
 
-[![Everything Is AWESOME](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Bluetooth.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Bluetooth.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Bluetooth.webm "Everything Is AWESOME")
