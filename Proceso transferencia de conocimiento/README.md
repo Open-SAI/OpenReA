@@ -1,4 +1,5 @@
-## Metodología virtual autodidacta para la transferencia de conocimiento.
+Metodología virtual autodidacta para la transferencia de conocimiento.
+======================================================================
 
 ### Componentes:
 
