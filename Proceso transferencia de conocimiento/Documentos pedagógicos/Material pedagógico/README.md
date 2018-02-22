@@ -34,7 +34,11 @@ _________
     
     [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20para%20el%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Selecci%C3%B3n_de_las_tecn%C3%B3logias_de_comunicaci%C3%B3n_para_el_dispositivo.webm "link directo al vídeo")
 	
-    * Diseño del circuito eléctrico (cápsula,tips).    
+    * __Diseño del circuito eléctrico (cápsula,tips).__
+
+    [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico%20(c%C3%A1psula%2Ctips)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_del_circuito_el%C3%A9ctrico.webm "link directo al vídeo")
+
+
     * Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).
       * Primer firmware del microcontrolador (cápsula,tips).
       * Disposición de los componentes eléctricos y eléctronicos del circuito en protoboard (cápsula, Práctica).
