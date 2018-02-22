@@ -1,8 +1,8 @@
-##Metodología virtual autodidacta para la transferencia de conocimiento.
+Metodología virtual autodidacta para la transferencia de conocimiento.
 ======================================================================
 
-###Componentes:
-________________
+Componentes:
+____________
 
 * Índice temático.
 * Material didáctico pedagogíco:
