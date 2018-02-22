@@ -45,6 +45,8 @@ _________
       * Primer firmware del microcontrolador (cápsula,tips).
       * Disposición de los componentes eléctricos y eléctronicos del circuito en protoboard (cápsula, Práctica).
 
+    [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Dise%C3%B1o%20de%20la%20disposici%C3%B3n%20de%20los%20componentes%20del%20circuito%20en%20protoboard.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20de%20la%20disposici%C3%B3n%20de%20los%20componentes%20del%20circuito%20en%20protoboard.%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_de_la_disposici%C3%B3n_de_los_componentes_del_circuito_en_protoboard.webm "link directo al vídeo")
+
 * Fabricación del dispositivo físico de hardware (videotutorial).
   * Montaje y pruebas en protoboard del dispositivo diseñado.
   * Creación del circuito impreso.
