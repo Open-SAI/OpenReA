@@ -32,7 +32,7 @@ _________
     
     En esta sección se habla sobre los dispositivos de comunicación a utilizar en algún proyecto  dando las ventajas y desventajas de los mismos como se observa en el vídeo.
     
-        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/GPS.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/GPS%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/GPS.webm "link directo al vídeo")
+      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/GPS.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/GPS%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/GPS.webm "link directo al vídeo")
 	
     * Diseño del circuito eléctrico (cápsula,tips).    
     * Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).
