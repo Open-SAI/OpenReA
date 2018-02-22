@@ -5,8 +5,8 @@ HARDWARE:
 _________
 
 * Diseño del dispositivo de hardware.
-    * Requerimientos y arquitectura del dispositivo (cápsula,contexto).
-    * Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).
+    * **Requerimientos y arquitectura del dispositivo (cápsula,contexto).**
+    * **Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).**
 
       En esta sección se habla sobre los dispositivos de comunicación a utilizar en algún proyecto  dando las ventajas y desventajas de los mismos como se observa en el vídeo.
     
