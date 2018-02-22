@@ -19,9 +19,9 @@ _________
       [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20para%20el%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Selecci%C3%B3n_de_las_tecn%C3%B3logias_de_comunicaci%C3%B3n_para_el_dispositivo.webm "link directo al vídeo")
       * **Microcontrolador Atmega328-PPU (cápsula, Práctica).**
 
-      Se aborda el tema de microcontroladores de libre acceso, como a su vez se da una vista detallada del microcontrolador y sus diversos pines; como se muestra en el vídeo.	
+        Se aborda el tema de microcontroladores de libre acceso, como a su vez se da una vista detallada del microcontrolador y sus diversos pines; como se muestra en el vídeo.	
 
-      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Microcontrolador%20Atmega328-PPU.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Microcontrolador%20Atmega328-PPU%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Microcontrolador_Atmega328-PPU.webm "link directo al vídeo")
+        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Microcontrolador%20Atmega328-PPU.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Microcontrolador%20Atmega328-PPU%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Microcontrolador_Atmega328-PPU.webm "link directo al vídeo")
       
       * **RFID (cápsula, Práctica).**
 
