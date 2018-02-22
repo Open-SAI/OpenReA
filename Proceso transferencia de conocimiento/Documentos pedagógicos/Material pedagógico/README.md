@@ -16,7 +16,9 @@ _________
     
       
       * WIFI (cápsula, Práctica).
+      
       * GPS  (cápsula, Práctica).
+      
     * Selección y consulta de las especificaciones de los componentes eléctronicos seleccionados (cápsula,tips).
     * Diseño del circuito eléctrico (cápsula,tips).    
     * Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).
