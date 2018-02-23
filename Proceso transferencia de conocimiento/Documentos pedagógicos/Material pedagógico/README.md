@@ -51,6 +51,7 @@ _________
 
     * **Selección y consulta de las especificaciones de los componentes eléctronicos seleccionados (cápsula,tips).**
     
+      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Selecci%C3%B3n%20y%20consulta%20de%20las%20especificaciones%20de%20los%20componentes%20el%C3%A9ctronicos%20seleccionados.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Selecci%C3%B3n%20y%20consulta%20de%20las%20especificaciones%20de%20los%20componentes%20el%C3%A9ctronicos%20seleccionados/V%C3%ADdeo%20para%20web/Selecci%C3%B3n_y_consulta_de_las_especificaciones_de_los_componentes_el%C3%A9ctronicos_seleccionados.webm "link directo al vídeo")
 
 	
     * __Diseño del circuito eléctrico (cápsula,tips).__
