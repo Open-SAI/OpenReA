@@ -63,7 +63,7 @@ _____________
       [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico%20(c%C3%A1psula%2Ctips)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_del_circuito_el%C3%A9ctrico.webm "link directo al vídeo")
 
 
-    * Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).
+    * __Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).__
       * Primer firmware del microcontrolador (cápsula,tips).
       * Disposición de los componentes eléctricos y eléctronicos del circuito en protoboard (cápsula, Práctica).
 
@@ -171,8 +171,9 @@ _____________
   * Github (cápsula, Práctica).
   * Pruebas de calidad (cápsula, tip).
 
-* Documentación científica (Vídeo tutorial).: 
-  * Latex: Generación de textos científicos y de investigación. 
+* __Documentación científica (Vídeo tutorial).:__
+  * Latex: Generación de textos científicos y de investigación.
+    [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%201%20%22instalaci%C3%B3n%20Latex%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_Latex.webm "link directo al vídeo")
 
 * Caja de Herramientas:
   * Arduino IDE (cápsula, Práctica).
