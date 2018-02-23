@@ -118,9 +118,10 @@ _____________
 	    
           * __Camara__
 	  
-            [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%203%20%22C%C3%A1mara%22).png).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%203%20%22Camara%22)/V%C3%ADdeo%20para%20web/python-kivy_camera.webm "link directo al vídeo")	  
+            [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%203%20%22C%C3%A1mara%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%203%20%22Camara%22)/V%C3%ADdeo%20para%20web/python-kivy_camera.webm "link directo al vídeo")	  
 	  
-          * Capas
+          * __Capas__
+	  
           * Audio
           * App
           * Sintetizador de voz
