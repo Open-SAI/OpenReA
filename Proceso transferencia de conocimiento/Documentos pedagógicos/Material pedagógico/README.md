@@ -181,19 +181,26 @@ _____________
 
 * __Caja de Herramientas:__
 
+_______________________________________________________________________________________________________________  
+
   * __Arduino IDE (cápsula, Práctica).__
   
     [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%202%20%22instalaci%C3%B3n%20arduino%20ide%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_Latex.webm "link directo al vídeo")
-    
+
+_______________________________________________________________________________________________________________  
+
   * __Fritzing PCB-suite (cápsula, Práctica).__
   
     [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%203%20%22instalaci%C3%B3n%20fritzing%20ide%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2015%22Instalaci%C3%B3n_fritzing%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_fritzing.webm "link directo al vídeo")
+
+_______________________________________________________________________________________________________________  
 
   * __Emacs editor (cápsula, Práctica).__
 
     [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%204%20%22instalaci%C3%B3n%20emacs%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2014%22Instalaci%C3%B3n_emacs%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_emacs.webm "link directo al vídeo")
 
 ______________________________________________________________________________________________________________
+
   * __Python (Guía de supervivencia)__
   
   [![Revise la guía de supervivencia dando click en este texto. ](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Guia%20de%20aprendizaje%20python.png)](http://es.tldp.org/Tutoriales/Python/tut.pdf "Hacer Click sobre la imágen.")
