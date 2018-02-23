@@ -1,5 +1,5 @@
-ÍNDICE TEMÁTICO
-===============
+**ÍNDICE TEMÁTICO**
+===================
 
 HARDWARE:
 _________
