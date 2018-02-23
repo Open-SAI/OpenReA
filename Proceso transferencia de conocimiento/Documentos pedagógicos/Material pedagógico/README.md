@@ -107,6 +107,7 @@ _____________
       * __desarrollo de interfaces de usuario__
       
         * __lenguaje python-kivy (Videotutorial)__
+          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%205%20%22instalaci%C3%B3n%20python-kivy%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2013%20%22Instalaci%C3%B3n_python-kivy%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_python-kivy.webm "link directo al vídeo")
 	    
           * __Label__
 
