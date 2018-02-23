@@ -201,7 +201,7 @@ ________________________________________________________________________________
   
   * Comandos de consola (Guía de supervivencia)
 
-  [![Revise la guía de supervivencia dando click en este texto. ](https://i.emezeta.com/weblog/guia-supervivencia-linux/guia-programas-gnu-linux.jpg)](https://www.emezeta.com/articulos/la-gran-guia-de-supervivencia-de-la-terminal-de-linux "Hacer Click sobre la imágen.")
+  [![Revise la guía de supervivencia dando click en este texto. ](https://i.emezeta.com/weblog/guia-supervivencia-linux/guia-programas-gnu-linux.jpg)](https://inakidominguez.files.wordpress.com/2013/05/comandos-de-la-shell.pdf "Hacer Click sobre la imágen.")
 _______________________________________________________________________________________________________________  
 
   * GNU-Linux (Guía de supervivencia)
