@@ -1,8 +1,8 @@
 **ÍNDICE TEMÁTICO**
 ===================
 
-HARDWARE:
-_________
+**HARDWARE:**
+_____________
 
 * __Diseño del dispositivo de hardware.__
 
