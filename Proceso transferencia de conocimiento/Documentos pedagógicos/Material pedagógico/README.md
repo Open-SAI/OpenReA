@@ -81,4 +81,8 @@
   * Python (Guía de supervivencia)
   * Comandos de consola (Guía de supervivencia)
 
+==========================================================================
+
 [Ir al material del curso](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/TEMAS.md)
+
+==========================================================================
