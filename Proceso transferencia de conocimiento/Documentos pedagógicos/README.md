@@ -9,3 +9,8 @@ Descripción material pedagogíco
 * Infografías: Ilustraciones para presentar de manera visual y sintéticas información, temas y conceptos del proyecto.
 * Guías de supervivencia: Es una tabla de referencia que presenta comandos, partes de código, conceptos técnicos o físicos del proyecto. 
 
+==========================================================================
+
+# [Ir al temario](https://github.com/Open-SAI/ReA/tree/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico)
+
+==========================================================================
