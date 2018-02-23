@@ -20,3 +20,8 @@ ____________
   * Evidencia en vídeo del trabajo del estudiante. 
   * Retroalimentación virtual.
 
+==========================================================================
+
+# [Ir a la parametrización del material pedagógico](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/README.md)
+
+==========================================================================
