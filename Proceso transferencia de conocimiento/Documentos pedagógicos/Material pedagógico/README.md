@@ -108,7 +108,7 @@ _____________
       
         * lenguaje python-kivy (Videotutorial)
 	
-	  En esta sección se brinda una tutoría sobre el módulo python-kivy a través  de vídeo tutoriales.
+	   En esta sección se brinda una tutoría sobre el módulo python-kivy a través  de vídeo tutoriales.
 	  
           * Screen
 
