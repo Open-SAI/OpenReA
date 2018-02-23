@@ -200,3 +200,6 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________
   
   * Comandos de consola (Guía de supervivencia)
+
+  [Revise la guía de supervivencia dando click en este texto. ](https://www.emezeta.com/articulos/la-gran-guia-de-supervivencia-de-la-terminal-de-linux)
+_______________________________________________________________________________________________________________  
