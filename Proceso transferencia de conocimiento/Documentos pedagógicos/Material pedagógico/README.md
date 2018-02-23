@@ -147,10 +147,18 @@ _____________
 
           [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%209%20%22Qrcode%20y%20zbar%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2012%20%22qrcode%20-%20zbar%22)/V%C3%ADdeo%20para%20web/Python-PyJnius_zbar-qrcode.webm "link directo al vídeo")
 
-        * Wifi
-        * BLUETOOTH (cápsula, tip)
+        * __Wifi__
+
+          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22WIFI%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%209%20%22pyjnius%20WIFI%22)/V%C3%ADdeo%20para%20web/PyJnius_WIFI.webm "link directo al vídeo")
+	  
+        * __BLUETOOTH (cápsula, tip)__
+
           * geoposicionamiento
-          * RFID 
+	  
+          * RFID
+	  
+          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22BLUETOOTH%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22Libreria%20Bluetooth%22)/V%C3%ADdeo%20para%20web/Libreria_Bluetooth.webm "link directo al vídeo")
+
         * GPS (Cápsula, tip)    
 
       * buildozer (Vídeo tutorial)
