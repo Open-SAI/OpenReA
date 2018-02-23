@@ -78,8 +78,8 @@ _____________
 
 
 
-SOFTWARE:
-_________
+**SOFTWARE:**
+_____________
 
 * Desarrollo de firmware (cápsula, contexto)
   * WIFI (cápsula, tips)
