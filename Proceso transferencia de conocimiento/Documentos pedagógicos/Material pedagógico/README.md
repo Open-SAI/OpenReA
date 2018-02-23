@@ -157,14 +157,16 @@ _____________
 
           * geoposicionamiento
 	  
-          * RFID	  
+          * RFID
+
+          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22BLUETOOTH%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22Libreria%20Bluetooth%22)/V%C3%ADdeo%20para%20web/Libreria_Bluetooth.webm "link directo al vídeo")
 
         * GPS (Cápsula, tip)
 
       * __buildozer (Vídeo tutorial)__
         * __Generación y empaquetado de las aplicaciones.__
 
-        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22m%C3%B3dulo_buildozer%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2017%20%22Compilar%20con%20buildozer%22%20(copia%201)/V%C3%ADdeos%20para%20web/modulo_buildozer.webm "link directo al vídeo")
+        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22m%C3%B3dulo_buildozer%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2017%20%22Compilar%20con%20buildozer/V%C3%ADdeos%20para%20web/modulo_buildozer.webm "link directo al vídeo")
 
 * Stack aplicaciones web (Vídeo tutorial): 
   * Servicio Web:
