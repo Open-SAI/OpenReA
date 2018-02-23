@@ -201,5 +201,5 @@ ________________________________________________________________________________
   
   * Comandos de consola (Guía de supervivencia)
 
-  [Revise la guía de supervivencia dando click en este texto. ](https://www.emezeta.com/articulos/la-gran-guia-de-supervivencia-de-la-terminal-de-linux)
+  [![Revise la guía de supervivencia dando click en este texto. ](https://i.emezeta.com/weblog/guia-supervivencia-linux/guia-programas-gnu-linux.jpg)](https://www.emezeta.com/articulos/la-gran-guia-de-supervivencia-de-la-terminal-de-linux)
 _______________________________________________________________________________________________________________  
