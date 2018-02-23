@@ -141,9 +141,11 @@ _____________
       
         * __Integración de librerias y funcionalidades con python-jnius__
 
-          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%207%20%22lenguaje%20kv%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%207%20%22Lenguaje%20kv%22)/V%C3%ADdeo%20para%20web/Python-kivy_Lenguaje_kv.webm "link directo al vídeo")
+          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%208%20%22Introducci%C3%B3n%20a%20pyjnius%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%208%20%22Introducci%C3%B3n%20Pyjnius%20en%20android%22)/V%C3%ADdeo%20para%20web/Introducci%C3%B3n_PyJnius_en_Python.webm "link directo al vídeo")
 	    
         * qr code / zbar
+
+
         * Wifi
         * BLUETOOTH (cápsula, tip)
           * geoposicionamiento
