@@ -199,12 +199,12 @@ ________________________________________________________________________________
   [![Revise la guía de supervivencia dando click en este texto. ](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Guia%20de%20aprendizaje%20python.png)](http://es.tldp.org/Tutoriales/Python/tut.pdf "Hacer Click sobre la imágen.")
 _______________________________________________________________________________________________________________
   
-  * Comandos de consola (Guía de supervivencia)
+  * __Comandos de consola (Guía de supervivencia)__
 
   [![Revise la guía de supervivencia dando click en este texto. ](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Guia%20de%20aprendizaje%20shell.png)](https://inakidominguez.files.wordpress.com/2013/05/comandos-de-la-shell.pdf "Hacer Click sobre la imágen.")
 _______________________________________________________________________________________________________________  
 
-  * GNU-Linux (Guía de supervivencia)
+  * __GNU-Linux (Guía de supervivencia)__
 
   [![Revise la guía de supervivencia dando click en este texto. ](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Gu%C3%ADa%20supervivencia%20Linux.png)](http://mmc2.geofisica.unam.mx/cursos/ppddm/ManualDeSupervivenciaEnLinux.pdf "Hacer Click sobre la imágen.")
 _______________________________________________________________________________________________________________  
