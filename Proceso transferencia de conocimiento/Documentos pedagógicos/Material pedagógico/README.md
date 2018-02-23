@@ -92,6 +92,10 @@ _____________
 
 
 * Desarrollo Apps multiplatafoma con python (cápsula, contexto):
+
+  [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Desarrollo%20Apps%20multiplatafoma%20con%20python.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Desarrollo%20Apps%20multiplatafoma%20con%20python%20(c%C3%A1psula%2C%20contexto)/V%C3%ADdeo%20para%20web/Apps_multiplataforma_con_python.webm "link directo al vídeo")
+
+
   * Python for android (Ínfografia)
     * Kivy (cápsula, contexto):
       * desarrollo de interfaces de usuario 
