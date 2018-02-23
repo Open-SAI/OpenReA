@@ -201,7 +201,7 @@ ________________________________________________________________________________
   
   * Comandos de consola (Guía de supervivencia)
 
-  [![Revise la guía de supervivencia dando click en este texto. ](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Guia%20de%20aprendizaje%20shell.pngg)](https://inakidominguez.files.wordpress.com/2013/05/comandos-de-la-shell.pdf "Hacer Click sobre la imágen.")
+  [![Revise la guía de supervivencia dando click en este texto. ](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Guia%20de%20aprendizaje%20shell.png)](https://inakidominguez.files.wordpress.com/2013/05/comandos-de-la-shell.pdf "Hacer Click sobre la imágen.")
 _______________________________________________________________________________________________________________  
 
   * GNU-Linux (Guía de supervivencia)
