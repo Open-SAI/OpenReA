@@ -31,5 +31,5 @@ La aplicación funciona sobre el sistema android 7 que utilizan las smartglass, 
 
 ### Métricas de documentación
 *  8 días, 64 horas.
-Suceptible a posicles modificaciones.
+Suceptible a posibles modificaciones.
 
