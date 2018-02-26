@@ -6,6 +6,7 @@
    * Librería TinyGPS 13 [Link de descarga](https://github.com/mikalhart/TinyGPS/releases/tag/v13)
    * Librería MRC522 ..................instalar con gestor de librerias arduino
    * Placa ESP8266 [Guia de instalación](https://www.prometec.net/esp8266-pluggin-arduino-ide/)
+   * Libreria SoftwareSerial ............. instalar con gestor de librerías arduino.
 * Fritzing BETA 0.9.3
 * Emacs 24.5.1
 * pip 9.0.1
