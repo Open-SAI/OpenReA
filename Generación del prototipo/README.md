@@ -1,7 +1,11 @@
-A continuación se listan los programas utilizados con sus respectivas versiones en el stack de kivy:
+# A continuación se listan los programas utilizados con sus respectivas versiones en el stack de kivy:
 
 * Debian 9.3 stretch de 32 bit.
 * python 2.7
+* Arduino IDE 1.8.5
+   * Libreria TinyGPS [Link](https://github.com/mikalhart/TinyGPS/releases/tag/v13)
+* Fritzing BETA 0.9.3
+* Emacs 24.5.1
 * pip 9.0.1
 * buildozer 0.32
 * cython 0.23
