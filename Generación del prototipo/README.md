@@ -3,7 +3,9 @@
 * Debian 9.3 stretch de 32 bit.
 * python 2.7
 * Arduino IDE 1.8.5
-   * Libreria TinyGPS [Link](https://github.com/mikalhart/TinyGPS/releases/tag/v13)
+   * Librería TinyGPS [Link](https://github.com/mikalhart/TinyGPS/releases/tag/v13)
+   * Librería MRC522 ..................instalar con gestor de librerias arduino
+   * Placa ESP8266 [Guia de instalación](https://www.prometec.net/esp8266-pluggin-arduino-ide/)
 * Fritzing BETA 0.9.3
 * Emacs 24.5.1
 * pip 9.0.1
