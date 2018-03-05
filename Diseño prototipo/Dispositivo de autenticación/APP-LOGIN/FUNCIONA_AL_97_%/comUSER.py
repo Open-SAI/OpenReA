@@ -124,6 +124,7 @@ class CompararUsuario(RelativeLayout):
         var = open("Datos/DataBase.text", "w")
         for i in range(0,len(arrayCambiado), 1):
             var.write(str(arrayCambiado[i]))
+  #      var.write("\n")
         var.close()
         
     def agregarUsuario(self, nuid, name, codigoIdentificacion):
@@ -131,6 +132,7 @@ class CompararUsuario(RelativeLayout):
 #        var = open("DataBase.text", "a")
         var = open("Datos/DataBase.text", "a")
         var.write(variable)
+        var.write("\n")
         var.close()    
         self.CargarArray()
 

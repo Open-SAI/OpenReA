@@ -2,7 +2,7 @@
 #qpy:kivy
 #import sys
 #sys.path.append('Datos')
-
+from kivy.uix.textinput import TextInput
 from kivy.uix.actionbar import ActionBar, ActionView, ActionButton, ActionPrevious, ActionGroup
 from kivy.app import App
 from kivy.uix.relativelayout import RelativeLayout
@@ -13,6 +13,7 @@ from kivy.clock import Clock
 from FileAgregarUser import ScreenAgregarUser
 from kivy.uix.label import Label
 from FileDeleteUser import ScreenDeleteUser
+from kivy.uix.button import Button
 
 class LoginApp(App):
     # Definiendo las variables globales, 
@@ -22,25 +23,35 @@ class LoginApp(App):
     global AcGroup
     global AcBtn1
     global AcBtn2
+    global AcBtn3
     global screenLogin1
     global rl
     global rl1
     global rl2
     global rl3
+    global rl4
     global rlPaso
     global compara
     global addUSER
     global deleteUSER
     global lblAlerta
+    global textIN
+    global textINpass
+    global btnCambiarpass
+
 
     # Deginiendo el layout principal
     rl = RelativeLayout()
     rl1 = RelativeLayout(size_hint_y=0.8, size_hint_x=1, pos=(-80,20))
-    rl2 = RelativeLayout(size_hint_y=0.6, size_hint_x=1, pos=(0,20))
+    rl2 = RelativeLayout(size_hint_y=0.7, size_hint_x=1, pos=(0,20))
     rl3 = RelativeLayout(size_hint_y=1, size_hint_x=1, pos=(0,20))
-    rlPaso = RelativeLayout(size_hint_y=0.7, size_hint_x=0.7, pos=(-10,150))
+    rl4 = RelativeLayout()
+
+    rlPaso = RelativeLayout(size_hint_y=0.7, size_hint_x=0.7, pos=(150,250))
     AcBtn1 = ActionButton(text="Añadir Usuario.")
     AcBtn2 = ActionButton(text="Quitar Usuario.")
+    AcBtn3 = ActionButton(text="Cambiar Contraseña")
+    
     BarAc = ActionBar(pos_hint={'top':1})
     AcView = ActionView()    
     AcPre = ActionPrevious(title= '   APP DE LOGIN LooginTooth ', important= True,with_previous= False )
@@ -49,21 +60,29 @@ class LoginApp(App):
     compara = CompararUsuario()
     addUSER = ScreenAgregarUser()
     deleteUSER = ScreenDeleteUser()
+    
+    lblAlerta = Label( pos_hint={'center_x': .7, 'center_y': .25}, text="", font_size="20dp", markup=True)
 
-    lblAlerta = Label(pos = (180, 0), text="", font_size="20dp", markup=True)
+# ________________ defino los textInput    
+    textIN = TextInput(size_hint_y=0.2, size_hint_x=0.7, pos_hint={'center_x': .45, 'center_y': .25}, font_size="20dp", multiline=False)
+    textINpass = TextInput(size_hint_y=0.2, size_hint_x=0.5, pos_hint={'center_x': .45, 'center_y': .65}, font_size="20dp", multiline=False)
+
+    btnCambiarpass = Button(text="Cambiar \n Contraseña", pos_hint={'center_x': .85, 'center_y': .65}, size_hint_y=0.2, size_hint_x=0.2,font_size=20 )
+    
     def build(self):
+        self.UsuarioROOT = 0
         #Añadir widget y funciones al action view
         AcView.add_widget(AcPre)
         AcView.use_separator=True
         AcView.add_widget(AcGroup)
 
-        #Añadir los botones al action group
+        #Añadir las funcionalidades de los botones
+        #     Añadir los botones al action group
         AcGroup.add_widget(AcBtn1)
         AcGroup.add_widget(AcBtn2)
+        AcGroup.add_widget(AcBtn3) 
 
-        #Añadir las funcionalidades de los botones
-        AcBtn1.bind(on_press=self.acAcBtn1)
-        AcBtn2.bind(on_press=self.acAcBtn2)
+
         
         #Añadir el action view al action bar
         BarAc.add_widget(AcView)
@@ -75,12 +94,71 @@ class LoginApp(App):
         #Añadiendo los layouts de las librerias al layout principal
         rl.add_widget(rl1)
         rl.add_widget(rl2)
-        rl.add_widget(rl3)        
+        rl.add_widget(rl3)
+        rl.add_widget(rl4)        
 
 
+        AcGroup.bind(on_press=self.identifiquese)
         self.cuenta = 0
         self.AgregarScreenComparar()
         return rl
+
+    def identifiquese(self, *args):
+        global soyROOT
+        print "Hola me llamaste para identificar el nuevo ingreso"
+        try:
+            AcGroup.unbind(on_press=self.identifiquese)
+        except:
+            pass
+
+        AcPre.title= "Regresar al inicio"
+        try:
+            AcPre.unbind(on_press=self.acPre1)
+        except:
+            pass
+        try:
+            AcPre.bind(on_press=self.acPre1)
+        except:
+            pass
+        
+        if self.UsuarioROOT == 0 :
+            rl1.pos=(-1000, 0)
+            #añado un layout de paso
+            rl.add_widget(rlPaso)
+            rlPaso.add_widget(textIN)
+            textIN.text=""
+            Mensaje = "Ingrese su clave administrador"
+            lblAlerta.pos = (0, 0)
+            lblAlerta.pos_hint={'center_x': .5, 'center_y': .5}
+            lblAlerta.text = Mensaje
+            var = open("Datos/pass.text","r")
+            soyROOT = var.read()
+            var.close()
+            soyroot = soyROOT.split("\n")
+            print soyroot[0]
+            soyROOT = soyroot[0] 
+            Clock.schedule_interval(self.quienERES, 0.2)
+            
+        if self.UsuarioROOT == 1:
+            AcBtn1.bind(on_press=self.acAcBtn1)            
+            AcBtn2.bind(on_press=self.acAcBtn2)
+            self.UsuarioROOT = 2
+
+        if self.UsuarioROOT == 2:
+            pass
+
+
+            
+    def quienERES(self, dt):
+        print textIN.text
+        if (str(textIN.text) == (soyROOT)):
+            Clock.unschedule(self.quienERES)
+            self.UsuarioROOT = 1
+            self.valorsleep = 0
+            Mensaje = "bienvenido usuario root, espere un momento"
+            lblAlerta.pos_hint={'center_x': .5, 'center_y': .5}
+            lblAlerta.text = Mensaje
+            Clock.schedule_interval(self.timeSleep, 1)
 
     def AgregarScreenComparar(self):        
         global SL
@@ -120,8 +198,36 @@ class LoginApp(App):
         rl3.add_widget(deleteUser)
         Clock.schedule_interval(self.EsperarIdentificacion2, 0.5)
 
+    def AgregarScreenCambiarPass(self):
+        print "Me llamaste para cambiar contrasenhas"
+        rl1.pos=(-1000, 0)
+        rl4.add_widget(btnCambiarpass)
+        rl4.add_widget(textINpass)
+        textINpass.text = ""
+        Mensaje = "Ingrese su nueva contraseña."
+        lblAlerta.pos_hint={'center_x': .45, 'center_y': .5}
+        lblAlerta.text = Mensaje
+        btnCambiarpass.bind(on_press=self.cambiarpass)
+        pass
 
 
+    def cambiarpass(self, *args):
+        if (len(textINpass.text) >= 4):
+            btnCambiarpass.unbind(on_press=self.cambiarpass)
+            var = open("Datos/pass.text", "w")
+            var.write(textINpass.text)
+            var.close()
+            self.valorsleep = 0
+            Mensaje = "Su contraseña de root ha sido actuailizada."
+            lblAlerta.pos_hint={'center_x': .45, 'center_y': .5}
+            lblAlerta.text = Mensaje
+            Clock.schedule_interval(self.timeSleep, 1)
+            
+        if (len(textINpass.text) < 4):
+            Mensaje = "Ingrese su nueva contraseña.\n La contraseña no puede ser tan corta."
+            lblAlerta.pos_hint={'center_x': .45, 'center_y': .5}
+            lblAlerta.text = Mensaje
+            
 # ----------------------------------------------------------------------------
 #-----------------------------------------------------------------------------
 #                              quitar screens
@@ -213,6 +319,7 @@ class LoginApp(App):
             print "Se encontro coincidencia deteniendo el hilo"
             Clock.unschedule(self.EsperarComparacion1)
             Mensaje = " El usuario ya existe \n en el registro de la B.D."
+            lblAlerta.pos_hint={'center_x': .75, 'center_y': .5}
             lblAlerta.text= Mensaje
             self.valorsleep = 0
             Clock.schedule_interval(self.timeSleep, 1)
@@ -232,6 +339,7 @@ class LoginApp(App):
            Clock.unschedule(self.PreguntarFormulario)
            compara.agregarUsuario(str(SL.bufferLectura()), valores[0], valores[1])
            Mensaje = "    Usuario  agregado al \n    registro."
+           lblAlerta.pos_hint={'center_x': .75, 'center_y': .5}
            lblAlerta.text= Mensaje
            self.valorsleep = 0
            Clock.schedule_interval(self.timeSleep, 1)             
@@ -251,6 +359,7 @@ class LoginApp(App):
         estado = compara.estadoCom()
         print "este es el estado del coroto " + str(estado)
         if estado == 1:
+            
             pass
         
         if estado == 2:
@@ -273,6 +382,23 @@ class LoginApp(App):
     def timeSleep(self, dt):
         if self.valorsleep == 1:
             Clock.unschedule(self.timeSleep)
+            try:
+                AcGroup.bind(on_press=self.identifiquese)
+            except:
+                pass
+
+            try:
+                Clock.unschedule(self.quienERES)
+            except:
+                pass
+            try:
+                rlPaso.clear_widgets()
+            except:
+                pass
+            try:
+                rl.remove_widget(rlPaso)
+            except:
+                pass
             try:
                 Clock.unschedule(self.EsperarIdentificacion)
             except:
@@ -311,13 +437,24 @@ class LoginApp(App):
                 rl2.clear_widgets()
             except:
                 pass
+
+            try:
+                rl4.clear_widgets()
+            except:
+                pass
+            try:
+                btnCambiarpass.unbind(on_press=self.cambiarpass)
+            except:
+                pass            
             Mensaje = ""
+            lblAlerta.pos  = (180, 0)
             lblAlerta.text= Mensaje
             rl1.size_hint_y = 0.8
             rl1.size_hint_x=  1
             rl1.pos=(-80,20)
             AcBtn1.bind(on_press=self.acAcBtn1)
             AcBtn2.bind(on_press=self.acAcBtn2)
+            AcBtn3.bind(on_press=self.acAcBtn3)
             SL.ReiniciarLectura()
             compara.CargarArray()
             AcPre.title= '   APP DE LOGIN LooginTooth '
@@ -365,6 +502,8 @@ class LoginApp(App):
             pass
         AcBtn1.unbind(on_press=self.acAcBtn1)
         AcBtn2.unbind(on_press=self.acAcBtn2)
+        AcBtn3.unbind(on_press=self.acAcBtn3)
+
         pass
 
 #----------------------------Botón para quitar usuario -----------------------------------    
@@ -384,6 +523,29 @@ class LoginApp(App):
             pass
         AcBtn1.unbind(on_press=self.acAcBtn1)
         AcBtn2.unbind(on_press=self.acAcBtn2)
+        AcBtn3.unbind(on_press=self.acAcBtn3)
+
+        pass
+
+#---------------------------- Botón para cambiar contraseña --------------------------------                
+    def acAcBtn3(self, *args):
+        print "iniciando el screen de actualizar usuario"
+        self.QuitarScreenComparar()
+        self.AgregarScreenCambiarPass()
+        AcPre.title= "Regresar al inicio"
+        #Añafir una acción a la imgen de ir al widget actionprenious
+        try:
+            AcPre.unbind(on_press=self.acPre1)
+        except:
+            pass
+        try:
+            AcPre.bind(on_press=self.acPre1)
+        except:
+            pass
+        AcBtn1.unbind(on_press=self.acAcBtn1)
+        AcBtn2.unbind(on_press=self.acAcBtn2)
+        AcBtn3.unbind(on_press=self.acAcBtn3)
+
         pass
         
 if __name__ =="__main__":

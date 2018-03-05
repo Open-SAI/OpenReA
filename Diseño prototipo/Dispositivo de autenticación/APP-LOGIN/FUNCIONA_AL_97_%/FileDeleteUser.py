@@ -21,7 +21,7 @@ from kivy.uix.label import Label
 from kivy.app import App
 
 
-class ScreenDeleteUser(GridLayout):
+class ScreenDeleteUser(RelativeLayout):
     '''Implementation of a simple list view with 100 items.
     '''
     def build(self):
@@ -29,18 +29,19 @@ class ScreenDeleteUser(GridLayout):
         global list_view
         global bl
         global btn
-        bl = BoxLayout()
+        bl = RelativeLayout()
         bl.size_hint_y=0.8
         bl.pos = (0,10)
         btn = Button(size_hint_y=0.1, text="Eliminar Usuario", font_size="24 dp")
         btn.bind(on_press=self.acbtn)
         bl.orientation = "vertical"
         
-        lbl = Label(text="Seleccione un usuario para eliminar", font_size="24 dp", size_hint_y=0.1)
+        lbl = Label(text="Seleccione un usuario para eliminar", font_size="24 dp", pos=(20,170))
         
         array = []
         array2 = []
-        
+        paso1 = []
+
         self.asiva = "0"
         self.Asi_Va()
         
@@ -48,11 +49,13 @@ class ScreenDeleteUser(GridLayout):
             for line in f:
                 array2.append(line)
         for i in range(2, len(array2), 1):
-            array.append(array2[i])
+            paso1 = array2[i].split("\n")
+            print paso1
+            array.append(paso1[0])
             
-        list_view = ListView()
-        ListItemButton.selected_color= [0, 0, 1, 1]
-        ListItemButton.deselected_color= [0, 0, 0, 1]
+        list_view = ListView(size_hint_x=1, size_hint_y= 0.6, pos= (0,80))
+  #      ListItemButton.selected_color= [0, 0, 1, 1]
+   #     ListItemButton.deselected_color= [0, 0, 0, 1]
         list_view.adapter =  ListAdapter(data=array,
                                          selection_mode='single',
                                          cls=ListItemButton)

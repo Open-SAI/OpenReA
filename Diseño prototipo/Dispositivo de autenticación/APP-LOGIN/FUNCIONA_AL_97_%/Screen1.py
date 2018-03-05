@@ -4,21 +4,40 @@ from kivy.uix.relativelayout import RelativeLayout
 from kivy.uix.label import Label 
 from kivy.clock import Clock
 from kivy.app import App
-from kivy.uix.image import Image 
+from kivy.uix.image import Image
+from kivy.uix.camera import Camera
 
 class ScreenLogin(RelativeLayout):
 #class ScreenLogin(App):
     def build(self):
-        self.rl = RelativeLayout()
-        self.img = Image()
-        self.lb  = Label(font_size="18dp", pos= (10, -180) , markup=True)
         self.opc = False
         self.opc1 = False
         self.cont1 = 0
-        self.img.source = "Imagenes/Screen1.png"
-  #      self.img.size = (880, 440)
-        self.img.pos=(0,0)
-        self.rl.add_widget(self.img)
+
+        
+        self.rl = RelativeLayout()
+        self.lb  = Label(font_size="15 dp",pos_hint={'center_x': .5, 'center_y': .1} , markup=True)
+
+#============================================================================
+#esta parte es para agregar  la camaraen el layout
+#============================================================================
+#____________________________________________________________________________        
+        cam =Camera(resolution=(640, 480), size_hint_x=1.2, size_hint_y=1, pos_hint={'center_x': .5, 'center_y': .5})
+        self.rl.add_widget(cam)
+#=============================================================================
+
+
+#============================================================================
+#esta parte es para agregar una imagen en el layout
+#============================================================================
+#____________________________________________________________________________        
+#        self.img = Image()
+#        self.img.source = "Imagenes/Screen1.png"
+#        self.img.pos=(0,0)
+#        self.rl.add_widget(self.img)
+#____________________________________________________________________________
+#=============================================================================
+        
         self.rl.add_widget(self.lb)
         self.Procesos_Bluetooth()
         self.mensaje1 = "[color=ff3333] Coloque su llave en el lector por favor."
@@ -41,6 +60,7 @@ class ScreenLogin(RelativeLayout):
             self.blueRequest =  ArduinoB.LeerCADENA() # LECTURA DEL BLUETOOTH ALMACENDA EN UNA VARIABLE            
         except:
             pass
+#        self.blueRequest = "Pedaso_deBasura"
         if ((self.blueRequest== "Nada")or(len(self.blueRequest)<5)):
 
             if (self.cont1 <= 2):

@@ -36,21 +36,20 @@ class ScreenAgregarUser(App):
         self.comoVa = ["nada", "nada"]
         self.Como_va_la_cosa()
 
-            
         rl1 = RelativeLayout()
         rl2 = RelativeLayout()
        
         #Inicializo los wadgets que necesita la app
         #Inicializo los text input
-        txtIn1 = TextInput(size_hint=(0.36, 0.2), pos=(500,300), text="", font_size="20dp", multiline=False)
-        txtIn2 = TextInput(size_hint=(0.36, 0.2), pos=(500,170), text="", font_size="20dp", multiline=False, input_type="number")
+        txtIn1 = TextInput(size_hint=(0.36, 0.2), pos_hint={'center_x': .8, 'center_y': .95}, text="", font_size="20dp", multiline=False)
+        txtIn2 = TextInput(size_hint=(0.36, 0.2), pos_hint={'center_x': .8, 'center_y': .55}, text="", font_size="20dp", multiline=False, input_type="number")
 
         # Agrego los label de los text input
-        lbl1 = Label(font_size="21", pos=(230, 130), text="Nombre completo usuario:")
-        lbl2 = Label(font_size="21", pos=(230, 0), text="Clave dada por la empresa:")
-        lbl3 = Label(font_size="24", pos=(-100, -150), text="")
+        lbl1 = Label(font_size="21", pos_hint={'center_x': .8, 'center_y': .8}, text="Nombre completo usuario:")
+        lbl2 = Label(font_size="21",  pos_hint={'center_x': .8, 'center_y': .4}, text="Clave dada por la empresa:")
+        lbl3 = Label(font_size="24", pos_hint={'center_x': .25, 'center_y': .05}, text="")
         # Inicializo el boton
-        btn = Button(size_hint=(0.36, 0.2), pos=(500, 30), text="Agregar usuario", font_size="24dp")
+        btn = Button(size_hint=(0.36, 0.2),  pos_hint={'center_x': .8, 'center_y': .05}, text="Agregar usuario", font_size="24dp")
 
 
         #agrego el wadget de interfaz de usuario al widget principal
