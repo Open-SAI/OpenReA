@@ -13,7 +13,7 @@
    height="1152"
    id="svg2383"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="portadaSENAcontenidos.svg"
    sodipodi:version="0.32"
    version="1.0"
@@ -220,13 +220,13 @@
      gridtolerance="10000"
      guidetolerance="10"
      id="base"
-     inkscape:current-layer="g3398"
-     inkscape:cx="900.4562"
+     inkscape:current-layer="layer2"
+     inkscape:cx="904.87562"
      inkscape:cy="568.02131"
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="744"
+     inkscape:window-height="739"
      inkscape:window-width="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -252,46 +252,46 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="fondo"
-     sodipodi:insensitive="true">
+     inkscape:label="fondo">
     <rect
        id="rect3951"
-       width="1440"
+       width="1442.0715"
        height="1080"
        x="-1.1368684e-13"
        y="1.1368684e-13"
-       style="fill:#268ae2;fill-opacity:1;stroke-width:0.7152918" />
+       style="fill:#268ae2;fill-opacity:1;stroke-width:0.71580613" />
     <rect
-       style="opacity:0.4692308;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23462617"
+       style="opacity:0.4692308;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.17228973"
        id="rect3113"
-       width="1440"
+       width="1298.2593"
        height="2.8284271"
-       x="0"
+       x="-1.1190312e-14"
        y="1025.4879" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35.78933716px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.98244452"
-       x="59.244953"
-       y="982.49841"
-       id="text3000-1-36"><tspan
+       style="font-style:normal;font-weight:normal;font-size:11.39411831px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.83186054"
+       x="56.253666"
+       y="932.89191"
+       id="text3000-1-36"
+       transform="scale(0.94950986,1.053175)"><tspan
          sodipodi:role="line"
-         x="59.244953"
-         y="991.79523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:119.2977829px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.98244452"
-         id="tspan3921-5" /><tspan
+         x="56.253666"
+         y="932.89191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.27442169px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.83186054"
+         id="tspan3921-5"> </tspan><tspan
          sodipodi:role="line"
-         x="59.244953"
-         y="1008.7484"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.98244452"
+         x="56.253666"
+         y="999.46643"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.48529625px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.83186054"
          id="tspan3223-3">Open Source Academic Initiative - OpenSAI</tspan></text>
     <g
        id="g352"
-       transform="translate(36.047334,-33.917474)">
+       transform="matrix(0.90156897,0,0,1,32.499158,-33.917474)">
       <g
          id="g371">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
            x="199.91043"
            y="153.90335"
            id="text3000-1"><tspan
@@ -307,12 +307,12 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1">procesos logísticos</tspan><tspan
              sodipodi:role="line"
              x="199.91043"
-             y="222.02054"
+             y="253.90335"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1"
-             id="tspan3223" /></text>
+             id="tspan3223"> </tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
            x="588.07446"
            y="258.23685"
            id="text3000"><tspan
@@ -397,32 +397,32 @@
      transform="translate(0.0019328)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="753.90552"
-       y="702.85297"
+       style="font-style:normal;font-weight:normal;font-size:11.39411831px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94950986"
+       x="715.84052"
+       y="667.36584"
        id="text3000-7"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(0.94950986,1.053175)"><tspan
          sodipodi:role="line"
-         x="753.90552"
-         y="702.85297"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff"
+         x="715.84052"
+         y="667.36584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.47549438px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.94950986"
          id="tspan3084"> lenguaje python-kivy </tspan></text>
     <g
-       id="g3398">
+       id="g3398"
+       transform="matrix(0.90156897,0,0,1,-1.902475e-4,0)">
       <text
-         sodipodi:linespacing="0%"
          id="text3000-7-83"
          y="728.7149"
          x="760.83844"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
          xml:space="preserve"><tspan
            id="tspan3088-4-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1"
            y="728.7149"
            x="760.83844"
-           sodipodi:role="line" /><tspan
+           sodipodi:role="line"> </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1"
-           y="767.44531"
+           y="771.3692"
            x="760.83844"
            sodipodi:role="line"
            id="tspan3399">Tutorial introducción a PyJnius en android</tspan></text>
@@ -430,12 +430,13 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3394"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3396"><rect
            id="rect3398"
            width="1111.4835"
            height="576.73395"
            x="-1155.6776"
            y="1154.2097" /></flowRegion><flowPara
-         id="flowPara3400" /></flowRoot>  </g>
+         id="flowPara3400"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  </g>
 </svg>
