@@ -1,26 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt title="Anonymous Submission" LC_NUMERIC="es_CO.utf8" producer="main bin" version="6.4.1" root="/home/debianita86/Documentos/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Material pedagógico/Vídeo tutoriales editados/lenguaje python-kivy (Videotutorial parte 11 &quot;Libreria GPS&quot;)/files">
  <profile frame_rate_num="25" sample_aspect_num="32" display_aspect_den="320" colorspace="601" progressive="1" description="480x320 25.00fps" display_aspect_num="569" frame_rate_den="1" width="480" height="320" sample_aspect_den="27"/>
- <producer id="1" in="0" out="192">
-  <property name="length">193</property>
-  <property name="eof">pause</property>
-  <property name="resource">creditosSENAcontenidos.svg</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="loop">1</property>
-  <property name="meta.media.width">1536</property>
-  <property name="meta.media.height">1152</property>
-  <property name="mlt_service">pixbuf</property>
-  <property name="kdenlive:duration">125</property>
-  <property name="kdenlive:file_size">30977</property>
-  <property name="kdenlive:file_hash">1c6acc37afe7df14dc5705c6c3cea2c8</property>
- </producer>
  <producer title="Anonymous Submission" id="2" in="0" out="7625">
   <property name="length">00:05:05:01</property>
   <property name="eof">pause</property>
   <property name="resource">Shinichi_408-in-the-morning-320.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -34,10 +22,6 @@
   <property name="meta.attr.artist.markup">Shinichi</property>
   <property name="meta.attr.comment.markup">(Copyrighted music by 'Shinichi' shared at www.SampleSwap.org) Creative Commons 'Attribution' licensed. See: http://creativecommons.org/licenses/by/3.0/</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:file_size">12203715</property>
   <property name="kdenlive:file_hash">ca5a64b00ca1ac06b7c0a4aa974b58be</property>
   <property name="global_feed">1</property>
@@ -62,6 +46,10 @@
   <property name="length">00:08:07:15</property>
   <property name="eof">pause</property>
   <property name="resource">/home/debianita86/Documentos/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Material pedagógico/Vídeo tutoriales editados/lenguaje python-kivy (Videotutorial parte 11 "Libreria GPS")/Vídeo para web/Librería_GPS.webm</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">1000</property>
@@ -88,10 +76,6 @@
   <property name="meta.media.sample_aspect_num">179</property>
   <property name="meta.media.sample_aspect_den">151</property>
   <property name="aspect_ratio">1,18543</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.frame_rate_num">1000</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -104,6 +88,23 @@
   <property name="kdenlive:file_hash">109c132167bacb705d7a716b4d0e6304</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer title="Anonymous Submission" id="1" in="0" out="192">
+  <property name="length">193</property>
+  <property name="eof">pause</property>
+  <property name="resource">creditosSENAcontenidos.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">31329</property>
+  <property name="kdenlive:file_hash">ba1c20ba39b5cacbe83c0071436d7c4e</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:docproperties.audiotargettrack">2</property>
   <property name="kdenlive:docproperties.decimalPoint">,</property>
@@ -114,7 +115,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">12175</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -131,14 +132,14 @@
   <property name="kdenlive:docproperties.zoom">9</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
-  <property name="kdenlive:docproperties.renderaudioquality">160</property>
+  <property name="kdenlive:docproperties.renderaudioquality">6</property>
   <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
-  <property name="kdenlive:docproperties.renderquality">20</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM-VP9</property>
+  <property name="kdenlive:docproperties.renderquality">23</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">213</property>
@@ -149,13 +150,13 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/debianita86/Documentos/Librería_GPS.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/debianita86/Documentos/Librería_GPS.webm</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
-  <entry producer="1" in="0" out="124"/>
   <entry producer="2" in="0" out="7625"/>
   <entry producer="3" in="0" out="124"/>
   <entry producer="4" in="0" out="12189"/>
+  <entry producer="1" in="0" out="192"/>
  </playlist>
  <producer id="black" in="0" out="500">
   <property name="length">15000</property>
