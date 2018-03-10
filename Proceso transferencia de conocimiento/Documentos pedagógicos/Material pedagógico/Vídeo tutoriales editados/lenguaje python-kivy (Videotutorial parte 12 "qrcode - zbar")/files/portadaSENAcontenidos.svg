@@ -13,7 +13,7 @@
    height="1152"
    id="svg2383"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="portadaSENAcontenidos.svg"
    sodipodi:version="0.32"
    version="1.0"
@@ -220,13 +220,13 @@
      gridtolerance="10000"
      guidetolerance="10"
      id="base"
-     inkscape:current-layer="g3400"
-     inkscape:cx="900.4562"
-     inkscape:cy="568.02131"
+     inkscape:current-layer="layer2"
+     inkscape:cx="1241.1452"
+     inkscape:cy="614.55875"
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="744"
+     inkscape:window-height="739"
      inkscape:window-width="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -256,42 +256,43 @@
      sodipodi:insensitive="true">
     <rect
        id="rect3951"
-       width="1440"
+       width="1442.0717"
        height="1080"
        x="-1.1368684e-13"
        y="1.1368684e-13"
-       style="fill:#268ae2;fill-opacity:1;stroke-width:0.7152918" />
+       style="fill:#268ae2;fill-opacity:1;stroke-width:0.71580613" />
     <rect
-       style="opacity:0.4692308;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23462617"
+       style="opacity:0.4692308;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15593719"
        id="rect3113"
-       width="1440"
+       width="1262.2926"
        height="2.8284271"
-       x="0"
+       x="-1.4029857e-14"
        y="1025.4879" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35.78933716px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.98244452"
-       x="59.244953"
-       y="982.49841"
-       id="text3000-1-36"><tspan
+       style="font-style:normal;font-weight:normal;font-size:11.2351799px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.7923584"
+       x="55.468975"
+       y="919.87885"
+       id="text3000-1-36"
+       transform="scale(0.93626496,1.0680737)"><tspan
          sodipodi:role="line"
-         x="59.244953"
-         y="991.79523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:119.2977829px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.98244452"
-         id="tspan3921-5" /><tspan
+         x="55.468975"
+         y="919.87885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.69433594px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.7923584"
+         id="tspan3921-5"> </tspan><tspan
          sodipodi:role="line"
-         x="59.244953"
-         y="1008.7484"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.98244452"
+         x="55.468975"
+         y="985.52472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.08794785px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.7923584"
          id="tspan3223-3">Open Source Academic Initiative - OpenSAI</tspan></text>
     <g
        id="g352"
-       transform="translate(36.047334,-33.917474)">
+       transform="matrix(0.87659207,0,0,1,31.598807,-33.917474)">
       <g
          id="g371">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
            x="199.91043"
            y="153.90335"
            id="text3000-1"><tspan
@@ -307,12 +308,12 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1">procesos logísticos</tspan><tspan
              sodipodi:role="line"
              x="199.91043"
-             y="222.02054"
+             y="253.90335"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1"
-             id="tspan3223" /></text>
+             id="tspan3223"> </tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
            x="588.07446"
            y="258.23685"
            id="text3000"><tspan
@@ -397,45 +398,45 @@
      transform="translate(0.0019328)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="753.90552"
-       y="702.85297"
+       style="font-style:normal;font-weight:normal;font-size:11.2351799px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93626493"
+       x="705.85504"
+       y="658.05658"
        id="text3000-7"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(0.93626496,1.0680737)"><tspan
          sodipodi:role="line"
-         x="753.90552"
-         y="702.85297"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff"
+         x="705.85504"
+         y="658.05658"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.81324768px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.93626493"
          id="tspan3084"> lenguaje python-kivy </tspan></text>
     <g
-       id="g3398">
+       id="g3398"
+       transform="matrix(0.87659207,0,0,1,-2.3852285e-4,0)">
       <g
          id="g3400">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
            x="760.83844"
            y="728.7149"
-           id="text3000-7-83"
-           sodipodi:linespacing="0%"><tspan
+           id="text3000-7-83"><tspan
              sodipodi:role="line"
              x="760.83844"
              y="728.7149"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1"
-             id="tspan3088-4-1" /><tspan
+             id="tspan3088-4-1"> </tspan><tspan
              id="tspan3399"
              sodipodi:role="line"
              x="760.83844"
-             y="767.44531"
+             y="771.3692"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1">Tutorial PyJnius Uso de Librerías</tspan><tspan
              id="tspan3400"
              sodipodi:role="line"
              x="760.83844"
-             y="811.19531"
+             y="815.1192"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1">Nativas de Android, Librería z-BAR </tspan><tspan
              sodipodi:role="line"
              x="760.83844"
-             y="854.94531"
+             y="858.8692"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1"
              id="tspan3401">y QR-code</tspan></text>
       </g>
@@ -443,12 +444,13 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3394"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3396"><rect
            id="rect3398"
            width="1111.4835"
            height="576.73395"
            x="-1155.6776"
            y="1154.2097" /></flowRegion><flowPara
-         id="flowPara3400" /></flowRoot>  </g>
+         id="flowPara3400"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  </g>
 </svg>
