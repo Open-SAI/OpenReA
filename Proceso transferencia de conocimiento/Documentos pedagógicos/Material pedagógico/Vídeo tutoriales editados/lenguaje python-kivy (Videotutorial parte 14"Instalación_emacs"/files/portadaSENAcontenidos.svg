@@ -220,9 +220,9 @@
      gridtolerance="10000"
      guidetolerance="10"
      id="base"
-     inkscape:current-layer="g3400"
-     inkscape:cx="909.29504"
-     inkscape:cy="568.02131"
+     inkscape:current-layer="layer2"
+     inkscape:cx="516.02035"
+     inkscape:cy="578.14178"
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -230,7 +230,7 @@
      inkscape:window-width="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="0.45254834"
+     inkscape:zoom="0.32"
      objecttolerance="10"
      pagecolor="#ffffff"
      showgrid="false"
@@ -252,41 +252,41 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="fondo"
-     sodipodi:insensitive="true">
+     inkscape:label="fondo">
     <rect
        id="rect3951"
-       width="1440"
+       width="1439.2053"
        height="1080"
        x="-1.1368684e-13"
-       y="1.1368684e-13"
-       style="fill:#268ae2;fill-opacity:1;stroke-width:0.7152918" />
+       y="5.6843419e-13"
+       style="fill:#268ae2;fill-opacity:1;stroke-width:0.71509439" />
     <rect
-       style="opacity:0.4692308;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23462617"
+       style="opacity:0.4692308;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15862417"
        id="rect3113"
-       width="1440"
+       width="1268.1677"
        height="2.8284271"
-       x="0"
+       x="-1.3566022e-14"
        y="1025.4879" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.98244452"
-       x="59.244953"
-       y="982.49841"
-       id="text3000-1-36"><tspan
+       style="font-style:normal;font-weight:normal;font-size:11.26129532px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79884911"
+       x="55.597908"
+       y="922.01703"
+       id="text3000-1-36"
+       transform="scale(0.93844126,1.0655968)"><tspan
          sodipodi:role="line"
-         x="59.244953"
-         y="982.49841"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:119.2977829px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.98244452"
+         x="55.597908"
+         y="922.01703"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.95396423px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.79884911"
          id="tspan3921-5"> </tspan><tspan
          sodipodi:role="line"
-         x="59.244953"
-         y="1052.613"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.98244452"
+         x="55.597908"
+         y="987.81549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.1532383px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.79884911"
          id="tspan3223-3">Open Source Academic Initiative - OpenSAI</tspan></text>
     <g
        id="g352"
-       transform="translate(36.047334,-33.917474)">
+       transform="matrix(0.880672,0,0,1,31.745878,-33.917474)">
       <g
          id="g371">
         <text
@@ -397,22 +397,24 @@
      transform="translate(0.0019328)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="753.90552"
-       y="702.85297"
-       id="text3000-7"><tspan
+       style="font-style:normal;font-weight:normal;font-size:11.26129532px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93844128"
+       x="707.49579"
+       y="659.58624"
+       id="text3000-7"
+       transform="scale(0.93844126,1.0655968)"><tspan
          sodipodi:role="line"
-         x="753.90552"
-         y="702.85297"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff"
+         x="707.49579"
+         y="659.58624"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.92206192px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.93844128"
          id="tspan3084">Instalación entorno</tspan><tspan
          sodipodi:role="line"
-         x="753.90552"
-         y="765.35297"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff"
+         x="707.49579"
+         y="718.23883"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.92206192px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.93844128"
          id="tspan3754">de trabajo.</tspan></text>
     <g
-       id="g3398">
+       id="g3398"
+       transform="matrix(0.880672,0,0,1,-2.3063715e-4,0)">
       <g
          id="g3400">
         <text
