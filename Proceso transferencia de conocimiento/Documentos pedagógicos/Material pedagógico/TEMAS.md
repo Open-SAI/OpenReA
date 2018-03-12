@@ -132,6 +132,7 @@ _____________
               En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización de un Buttons o Botones dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://kivy.org/docs/api-kivy.uix.button.html); para comenzar la practica puede utilizar el siguiente material: [Enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%202%20%22Botones%22)/V%C3%ADdeo%20para%20web/Python-kivy_Buttons.webm "Enlace directo al vídeo.")
 
 	      __Imágen de la App con un Button__
+	      
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_button.png" width='450' height='250'>
 	    
           * __Camara__
