@@ -106,7 +106,7 @@ _____________
 	      class texto(App):
                   def build(self):
                       wdg = Widget()
-		  lbl = Label()
+		      lbl = Label()
 		  lbl.markup= True
 		  lbl.text = "Hola soy un Label"
 		  lbl.pos = (100,100)
