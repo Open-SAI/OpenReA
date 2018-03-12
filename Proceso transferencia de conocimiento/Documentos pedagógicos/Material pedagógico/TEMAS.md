@@ -29,9 +29,7 @@ _____________
       
       * **BLUETOOTH (cápsula, Práctica).**
       
-        En esta vídeo cápsula se realiza una contextualización de la tecnología Bluetooth y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo HC-05 y HC-06; como se muestra en el siguiente vídeo.
-
-        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Bluetooth.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Bluetooth.webm "link directo al vídeo")    
+          En esta sección se realiza una contextualización de la tecnología Bluetooth y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo HC-05 y HC-06; como la labor de aterrizar la hoja  de datos del módulo [Hoja de datos](https://www.robotshop.com/media/files/pdf/rb-ite-12-bluetooth_hc05.pdf), a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Bluetooth.webm)
       
       * **WIFI (cápsula, Práctica).**
       
