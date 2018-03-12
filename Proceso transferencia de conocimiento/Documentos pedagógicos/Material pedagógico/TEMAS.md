@@ -104,9 +104,9 @@ _____________
 
 	      __Código del programa__
 	      ```python
-	      #Utilice el siguiente código para visualizar un label con python kivy
-	      #Esto es software libre 
 	      #*-*coding:utf-8*-*
+      	      #Utilice el siguiente código para visualizar un label con python kivy
+	      #Esto es software libre 
 	      import kivy
 	      from kivy.uix.label import Label
 	      from kivy.uix.widget import Widget
@@ -134,7 +134,52 @@ _____________
 	      __Imágen de la App con un Button__
 	      
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_button.png" width='550' height='350'>
-	    
+
+	      __Código del programa__
+	      ```python
+	      #*-*coding:utf-8*-*
+#Utilice el siguiente código para visualizar un label con python kivy
+#Esto es software libre 
+import kivy
+from kivy.uix.label import Label
+from kivy.uix.widget import Widget
+from kivy.uix.button import Button 
+from kivy.app import App
+class Boton(App):
+    def build(self):
+        global wdg
+        global lbl
+        global btn
+        wdg = Widget()
+        lbl = Label()
+        btn = Button()
+        btn.text = "Llamado"
+        btn.pos = (300,100)
+        btn.size = (100, 30)
+        wdg.add_widget(btn)        
+        lbl.markup= True
+        lbl.pos = (300,300)
+        lbl.font_size = "24dp"
+        lbl.color = [1, 0.5,0.5,1]
+        wdg.add_widget(lbl)
+        btn.bind(on_press=self.ac_btn)
+        return wdg
+
+    def ac_btn(self, *args):
+        lbl.text = "Hola soy Label uno, llamado por un botón"
+        btn.unbind(on_press=self.ac_btn)
+        btn.bind(on_press=self.ac_btnS)
+
+    def ac_btnS(self, *args):
+        lbl.text = "Hola soy Label dos, llamado por un botón"
+        btn.unbind(on_press=self.ac_btnS)
+        btn.bind(on_press=self.ac_btn)
+          
+
+if __name__=="__main__":
+    Boton().run()
+        ```	      
+	      
           * __Camara__
 	  
             [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%203%20%22C%C3%A1mara%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%203%20%22Camara%22)/V%C3%ADdeo%20para%20web/python-kivy_camera.webm "link directo al vídeo")	  
