@@ -186,6 +186,27 @@ _____________
 	      __Imágen de la App con un Button__
 	      
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_camera.png" width='450' height='350'>
+	      
+              __Código del programa__
+	      ```python
+	      #*-*coding:utf-8*-*
+	      #Utilice el siguiente código para visualizar un label con python kivy
+	      #Esto es software libre
+	      import kivy
+	      from kivy.uix.relativelayout import RelativeLayout
+	      from kivy.uix.camera import Camera
+	      from kivy.app import App
+	      class MiCamara(App):
+	          def build(self):
+		  rl = RelativeLayout()
+		  cam = Camera(resolution=(320, 240), size=(1000, 800),
+                              pos=(0,0), play = True)
+	          rl.add_widget(cam)
+		  return rl
+	      if __name__=="__main__":
+	          MiCamara().run()
+		  ```
+	      
 		
           * __Capas__
 
