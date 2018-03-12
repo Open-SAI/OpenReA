@@ -104,7 +104,7 @@ _____________
 	      from kivy.uix.widget import Widget
 	      from kivy.app import App
 	      class texto(App):
-                  def build(self):
+	      def build(self):
                       wdg = Widget()
                       lbl = Label()
                       lbl.markup= True
