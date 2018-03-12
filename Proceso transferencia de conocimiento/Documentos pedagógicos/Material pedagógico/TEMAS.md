@@ -133,7 +133,7 @@ _____________
 
 	      __Imágen de la App con un Button__
 	      
-	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_button.png" width='450' height='350'>
+	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_button.png" width='550' height='350'>
 	    
           * __Camara__
 	  
