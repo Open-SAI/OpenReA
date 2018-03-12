@@ -114,7 +114,7 @@ _____________
 		      return wdg
 	      if __name__=="__main__":
 	          texto().run()
-	      ´´´
+```
 	      
           * __Buttons__
 
