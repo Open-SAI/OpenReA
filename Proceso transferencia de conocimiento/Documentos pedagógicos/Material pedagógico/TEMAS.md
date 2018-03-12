@@ -105,7 +105,7 @@ _____________
 	      from kivy.app import App
 	      class texto(App):
 	          def build(self):
-                      wdg = Widget()
+                  wdg = Widget()
 		      lbl = Label()
 		      lbl.markup= True
 		      lbl.text = "Hola soy un Label"
