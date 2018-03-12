@@ -95,7 +95,7 @@ _____________
           * __Label__
 
               En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claro sobre la utilización de los label o textos en las interfaces gráficas que estemos desarrollando; se puede verificar esta información en [enlace a documentación](https://kivy.org/docs/api-kivy.uix.label.html), para comenzar la practica puede utilizar el siguiente material: [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%201%20%22Label%22)/V%C3%ADdeo%20para%20web/lenguaje_python-kivy_Label.webm )
-´´´python
+```python
     #*-*coding:utf-8*-*
     import kivy
     from kivy.uix.label import Label
@@ -114,7 +114,7 @@ _____________
 	    return wdg
     if __name__=="__main__":
         texto().run()
-´´´	
+```	
 	
           * __Buttons__
 
