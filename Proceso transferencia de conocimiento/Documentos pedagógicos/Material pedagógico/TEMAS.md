@@ -93,13 +93,15 @@ _____________
             En esta sección se aborda el tema de la instalación de python kivy, junto a sus dependencias y versiones  que se pueden utilizar para que este módulo de python funcione de una manera adecuada, como lo manifiesta la documentación de dicha librería [manual de instalación](https://kivy.org/docs/installation/installation-linux.html), para entender de una manera pedagógica y didáctica la instalación de dicho entorno se presenta su instalación en el siguiente víseo; [Enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2013%20%22Instalaci%C3%B3n_python-kivy%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_python-kivy.webm "Enlace directo al vídeo.") 
 	    
           * __Label__
-
+	    
               En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claro sobre la utilización de los label o textos en las interfaces gráficas que estemos desarrollando; se puede verificar esta información en [enlace a documentación](https://kivy.org/docs/api-kivy.uix.label.html), para comenzar la practica puede utilizar el siguiente material: [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%201%20%22Label%22)/V%C3%ADdeo%20para%20web/lenguaje_python-kivy_Label.webm )
+
+	      __Imágen de la app, con un label__
 
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_label.png">
 
 
-	      [Imágen de la app, con un label](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_label.png)
+
 	      __Código del programa__
 	      ```python
 	      #Utilice el siguiente código para visualizar un label con python kivy
