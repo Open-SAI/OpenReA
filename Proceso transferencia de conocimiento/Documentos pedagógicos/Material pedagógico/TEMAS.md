@@ -106,15 +106,15 @@ _____________
 	      class texto(App):
 	          def build(self):
 
-                      wdg = Widget()
-                      lbl = Label()
-                      lbl.markup= True
-                      lbl.text = "Hola soy un Label"
-                      lbl.pos = (100,100)
-                      lbl.font_size = "24dp"
-                      lbl.color = [1, 0.5,0.5,1]
-                      wdg.add_widget(lbl)
-                      return wdg
+                  wdg = Widget()
+                  lbl = Label()
+                  lbl.markup= True
+                  lbl.text = "Hola soy un Label"
+                  lbl.pos = (100,100)
+                  lbl.font_size = "24dp"
+                  lbl.color = [1, 0.5,0.5,1]
+                  wdg.add_widget(lbl)
+                  return wdg
 	      if __name__=="__main__":
 	          texto().run()
 		  ```
