@@ -22,9 +22,8 @@ _____________
       
       * **RFID (cápsula, Práctica).**
 
-        En esta vídeo cápsula se realiza una contextualización de la tecnología RFID y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo RC-522; como se muestra en el siguiente vídeo.
-	
-        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/RFID.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/RFID%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/RFID.webm "link directo al vídeo")
+      	  En esta sección se realiza una contextualización de la tecnología RFID y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo RC-522, brindando un aterrizaje de la hoja de datos de ofrece el fabricante [Hoja de Datos](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf); a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/RFID%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/RFID.webm)
+
 
 
       
