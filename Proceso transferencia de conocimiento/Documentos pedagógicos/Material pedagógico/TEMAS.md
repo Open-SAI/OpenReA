@@ -174,10 +174,8 @@ _____________
         	      lbl.text = "Hola soy Label dos, llamado por un botón"
         	      btn.unbind(on_press=self.ac_btnS)
         	      btn.bind(on_press=self.ac_btn)
-          
-
-	  if __name__=="__main__":
-	      Boton().run()
+	      if __name__=="__main__":
+	          Boton().run()
 	      ```
         	      
 	      
