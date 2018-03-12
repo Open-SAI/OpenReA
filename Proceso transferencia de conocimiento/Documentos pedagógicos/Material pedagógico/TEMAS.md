@@ -164,8 +164,7 @@ _____________
         	      wdg.add_widget(lbl)
         	      btn.bind(on_press=self.ac_btn)
         	      return wdg
-
-    def ac_btn(self, *args):
+    		  def ac_btn(self, *args):
         lbl.text = "Hola soy Label uno, llamado por un botón"
         btn.unbind(on_press=self.ac_btn)
         btn.bind(on_press=self.ac_btnS)
