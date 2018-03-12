@@ -113,7 +113,8 @@ _____________
 		      wdg.add_widget(lbl)
 		      return wdg
 	      if __name__=="__main__":
-	          texto().run() ```	
+	          texto().run()
+	      ```	
 	
           * __Buttons__
 
