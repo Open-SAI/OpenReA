@@ -46,9 +46,7 @@ _____________
 	
     * __Diseño del circuito eléctrico (cápsula,tips).__    
 
-      En esta sección se aborda el tema de diseño de circuitos eléctricos bajo la IDE de fritzing. Para más detalle ver el siguiente vídeo.
-
-      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico%20(c%C3%A1psula%2Ctips)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_del_circuito_el%C3%A9ctrico.webm "link directo al vídeo")
+        En esta sección se aborda el tema de diseño de circuitos eléctricos bajo la IDE de fritzing [Página oficial. ](http://fritzing.org/home/ ); en donde se puede visualizar el alcance de este generador de esquemás muy potente y de licencia libre, el cual cuenta con una gran cantidad de partes y funciones como la de diseñar nuestros esquemas eléctricos. [Enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Dise%C3%B1o%20del%20circuito%20el%C3%A9ctrico%20(c%C3%A1psula%2Ctips)/V%C3%ADdeo%20para%20web/Dise%C3%B1o_del_circuito_el%C3%A9ctrico.webm) 
 
 
     * __Diseño de la disposición de los componentes del circuito en protoboard. (cápsula,contexto).__
