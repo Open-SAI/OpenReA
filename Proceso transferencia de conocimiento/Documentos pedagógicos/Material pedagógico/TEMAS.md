@@ -155,15 +155,15 @@ _____________
         	      btn = Button()
         	      btn.text = "Llamado"
         	      btn.pos = (300,100)
-        btn.size = (100, 30)
-        wdg.add_widget(btn)        
-        lbl.markup= True
-        lbl.pos = (300,300)
-        lbl.font_size = "24dp"
-        lbl.color = [1, 0.5,0.5,1]
-        wdg.add_widget(lbl)
-        btn.bind(on_press=self.ac_btn)
-        return wdg
+        	      btn.size = (100, 30)
+        	      wdg.add_widget(btn)        
+        	      lbl.markup= True
+        	      lbl.pos = (300,300)
+        	      lbl.font_size = "24dp"
+        	      lbl.color = [1, 0.5,0.5,1]
+        	      wdg.add_widget(lbl)
+        	      btn.bind(on_press=self.ac_btn)
+        	      return wdg
 
     def ac_btn(self, *args):
         lbl.text = "Hola soy Label uno, llamado por un botón"
