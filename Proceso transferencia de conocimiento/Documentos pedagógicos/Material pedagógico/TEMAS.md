@@ -9,13 +9,12 @@ _____________
     * **Requerimientos y arquitectura del dispositivo (cápsula,contexto).**
     
 	En este vídeo se presenta a modo de perspectiva global la manera como se escogen componentes para desarrollar un proyecto con IoT; de igual forma se brinda una guía para que la personas comiencen  a estructurar sus proyectos con tecnologías libres de fácil acceso al publico en general y que sea relativamente sencilla de configurar; también se orienta la forma de modelar la arquitectura que tendrá el proyecto. 
-	[Enlace directo al vídeo: ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Requerimientos%20y%20arquitectura%20del%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Requerimientos_y_arquitectura_del_dispositivo.webm "Enlace directo al vídeo.")
+	[Enlace directo al vídeo ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Requerimientos%20y%20arquitectura%20del%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Requerimientos_y_arquitectura_del_dispositivo.webm "Enlace directo al vídeo.")
 
     * **Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).**
 
-      En esta sección se habla sobre los dispositivos de comunicación a utilizar en algún proyecto  dando las ventajas y desventajas de los mismos como se observa en el vídeo.
-    
-      [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20para%20el%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Selecci%C3%B3n_de_las_tecn%C3%B3logias_de_comunicaci%C3%B3n_para_el_dispositivo.webm "link directo al vídeo")
+      En esta sección se habla sobre los dispositivos de comunicación a utilizar en algún proyecto con IoT; entre ellos se destaca el uso del mulo ESP-8266 para comunicación WIFI, el módulo HC-05 para comunicación serial vía BLUETOOTH, el módulo RC522 para llaves rfid; comentando del alcance, ventajas y desventajas del uso de estos módulos de comunicación inalámbrica. [Enlace directo al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Selecci%C3%B3n%20de%20las%20tecn%C3%B3logias%20de%20comunicaci%C3%B3n%20para%20el%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Selecci%C3%B3n_de_las_tecn%C3%B3logias_de_comunicaci%C3%B3n_para_el_dispositivo.webm)
+
       * **Microcontrolador Atmega328-PPU (cápsula, Práctica).**
 
         Se aborda el tema de microcontroladores de libre acceso, como a su vez se da una vista detallada del microcontrolador y sus diversos pines; como se muestra en el vídeo.	
