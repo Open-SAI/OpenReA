@@ -9,7 +9,7 @@ _____________
     * **Requerimientos y arquitectura del dispositivo (cápsula,contexto).**
     
 	En este vídeo se presenta a modo de perspectiva global la manera como se escogen componentes para desarrollar un proyecto con IoT; de igual forma se brinda una guía para que la personas comiencen  a estructurar sus proyectos con tecnologías libres de fácil acceso al publico en general y que sea relativamente sencilla de configurar; también se orienta la forma de modelar la arquitectura que tendrá el proyecto. 
-	[![Enlace directo al vídeo: ]](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso transferencia de conocimiento/Documentos pedagógicos/Material pedagógico/Cápsulas editadas/Requerimientos y arquitectura del dispositivo (cápsula%2Ccontexto)/Vídeo para web/Requerimientos_y_arquitectura_del_dispositivo.webm "Enlace directo al vídeo.")
+	[![Enlace directo al vídeo: ]](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Requerimientos%20y%20arquitectura%20del%20dispositivo%20(c%C3%A1psula%2Ccontexto)/V%C3%ADdeo%20para%20web/Requerimientos_y_arquitectura_del_dispositivo.webm "Enlace directo al vídeo.")
 
     * **Selección de las tecnólogias de comunicación para el dispositivo (cápsula,contexto).**
 
