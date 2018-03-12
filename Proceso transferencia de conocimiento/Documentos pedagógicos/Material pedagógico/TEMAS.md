@@ -17,7 +17,7 @@ _____________
 
       * **Microcontrolador Atmega328-PPU (cápsula, Práctica).**
 
-          En esta sección se aborda el tema de microcontroladores de libre acceso, como a su descripción detallada del microcontrolador y sus diversos pines; todo esto basado en la información que brinda el fabricante del componente [Hoja de datos microcontrolador Atmega 328 P-PU](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf); todos estos temas se tratan en el siguiente vídeo: [Enlace directo al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Microcontrolador%20Atmega328-PPU%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Microcontrolador_Atmega328-PPU.webm “Enlace directo al vídeo.”)
+          En esta sección se aborda el tema de microcontroladores de libre acceso, como a su descripción detallada del microcontrolador y sus diversos pines; todo esto basado en la información que brinda el fabricante del componente [Hoja de datos microcontrolador Atmega 328 P-PU](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf); todos estos temas se tratan en el siguiente vídeo: [Enlace directo al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Microcontrolador%20Atmega328-PPU%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Microcontrolador_Atmega328-PPU.webm)
 
       
       * **RFID (cápsula, Práctica).**
