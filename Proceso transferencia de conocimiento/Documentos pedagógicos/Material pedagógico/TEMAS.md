@@ -22,20 +22,18 @@ _____________
       
       * **RFID (cápsula, Práctica).**
 
-      	  En esta sección se realiza una contextualización de la tecnología RFID y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo RC-522, brindando un aterrizaje de la hoja de datos de ofrece el fabricante [Hoja de Datos](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf); a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/RFID%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/RFID.webm)
+      	  En esta sección se realiza una contextualización de la tecnología RFID y de los módulos electrónicos empleados para el desarrollo de proyectos IoT, en particular el módulo RC-522, brindando un aterrizaje de la hoja de datos de ofrece el fabricante [Hoja de Datos](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf); a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/RFID%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/RFID.webm)
 
 
 
       
       * **BLUETOOTH (cápsula, Práctica).**
       
-          En esta sección se realiza una contextualización de la tecnología Bluetooth y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo HC-05 y HC-06; como la labor de aterrizar la hoja  de datos del módulo [Hoja de datos](https://www.robotshop.com/media/files/pdf/rb-ite-12-bluetooth_hc05.pdf), a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Bluetooth.webm)
+          En esta sección se realiza una contextualización de la tecnología Bluetooth y de los módulos electrónicos empleados para el desarrollo de proyectos IoT, en particular el módulo HC-05 y HC-06; como la labor de aterrizar la hoja  de datos del módulo [Hoja de datos](https://www.robotshop.com/media/files/pdf/rb-ite-12-bluetooth_hc05.pdf), a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/BLUETOOTH%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/Bluetooth.webm)
       
       * **WIFI (cápsula, Práctica).**
       
-        En esta vídeo cápsula se realiza una contextualización de la tecnología WIFI y de los módulos electrónicos empleados para el desarrollo del proyecto, en particular el módulo ESP8266; como se muestra en el siguiente vídeo.
-      
-        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/WIFI.png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/WIFI%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/WIFI.webm "link directo al vídeo")
+	  En esta sección se realiza una contextualización de la tecnología WIFI y de los módulos  empleados para el desarrollo de proyectos IoT, en particular el módulo ESP8266; para ver información más detallada del módulo favor dirigirse a: [Hoja de datos, ](https://cdn-shop.adafruit.com/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf), a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/WIFI%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/WIFI.webm)
 	
       * **GPS  (cápsula, Práctica).**
       
