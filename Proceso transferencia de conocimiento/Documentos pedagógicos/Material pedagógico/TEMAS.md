@@ -138,16 +138,16 @@ _____________
 	      __Código del programa__
 	      ```python
 	      #*-*coding:utf-8*-*
-#Utilice el siguiente código para visualizar un label con python kivy
-#Esto es software libre 
-import kivy
-from kivy.uix.label import Label
-from kivy.uix.widget import Widget
-from kivy.uix.button import Button 
-from kivy.app import App
-class Boton(App):
-    def build(self):
-        global wdg
+	      #Utilice el siguiente código para visualizar un label con python kivy
+	      #Esto es software libre 
+	      import kivy
+	      from kivy.uix.label import Label
+	      from kivy.uix.widget import Widget
+	      from kivy.uix.button import Button 
+	      from kivy.app import App
+	      class Boton(App):
+	          def build(self):
+        	      global wdg
         global lbl
         global btn
         wdg = Widget()
