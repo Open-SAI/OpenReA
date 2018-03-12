@@ -1,31 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt title="Anonymous Submission" LC_NUMERIC="es_CO.utf8" producer="main bin" version="6.4.1" root="/home/debianita86/Documentos/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Material pedagógico/Vídeo tutoriales editados/lenguaje python-kivy (Videotutorial parte 17 &quot;Compilar con buildozer&quot;/files">
  <profile frame_rate_num="25" sample_aspect_num="32" display_aspect_den="320" colorspace="601" progressive="1" description="480x320 25.00fps" display_aspect_num="569" frame_rate_den="1" width="480" height="320" sample_aspect_den="27"/>
- <producer title="Anonymous Submission" id="1" in="0" out="193">
-  <property name="length">194</property>
-  <property name="eof">pause</property>
-  <property name="resource">creditosSENAcontenidos.svg</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="loop">1</property>
-  <property name="meta.media.width">1536</property>
-  <property name="meta.media.height">1152</property>
-  <property name="mlt_service">pixbuf</property>
-  <property name="kdenlive:duration">125</property>
-  <property name="kdenlive:file_size">31318</property>
-  <property name="kdenlive:file_hash">ff5466315cc3ac41e311137d443a5049</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="3" in="0" out="7625">
+ <producer id="1" in="0" out="7625">
   <property name="length">00:05:05:01</property>
   <property name="eof">pause</property>
-  <property name="resource">Shinichi_408-in-the-morning-320.mp3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/debianita86/Documentos/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/files/Shinichi_408-in-the-morning-320.mp3</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -39,18 +18,49 @@
   <property name="meta.attr.artist.markup">Shinichi</property>
   <property name="meta.attr.comment.markup">(Copyrighted music by 'Shinichi' shared at www.SampleSwap.org) Creative Commons 'Attribution' licensed. See: http://creativecommons.org/licenses/by/3.0/</property>
   <property name="seekable">1</property>
-  <property name="kdenlive:file_size">12203715</property>
-  <property name="kdenlive:file_hash">ca5a64b00ca1ac06b7c0a4aa974b58be</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="4" in="0" out="62397">
-  <property name="length">00:41:35:23</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/debianita86/Documentos/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Material pedagógico/Vídeo tutoriales editados/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/Vídeos para web/modulo_buildozer.webm</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
   <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:file_size">12203715</property>
+  <property name="kdenlive:file_hash">ca5a64b00ca1ac06b7c0a4aa974b58be</property>
+ </producer>
+ <producer id="2" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/debianita86/Documentos/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/files/creditosSENAcontenidos.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">31318</property>
+  <property name="kdenlive:file_hash">ff5466315cc3ac41e311137d443a5049</property>
+ </producer>
+ <producer id="3" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/debianita86/Documentos/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/files/portadaSENAcontenidos.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">1152</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">19296</property>
+  <property name="kdenlive:file_hash">9f06516deeb4029fb77754a4b5e75baa</property>
+ </producer>
+ <producer title="Anonymous Submission" id="4" in="0" out="62371">
+  <property name="length">00:41:34:22</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/debianita86/Documentos/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/Vídeos para web/Compilar_con_buildozer.webm</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">1000</property>
@@ -62,8 +72,8 @@
   <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
   <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
   <property name="meta.media.0.codec.colorspace">601</property>
-  <property name="meta.media.0.codec.name">vp8</property>
-  <property name="meta.media.0.codec.long_name">On2 VP8</property>
+  <property name="meta.media.0.codec.name">vp9</property>
+  <property name="meta.media.0.codec.long_name">Google VP9</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
   <property name="meta.media.1.stream.type">audio</property>
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
@@ -77,6 +87,10 @@
   <property name="meta.media.sample_aspect_num">179</property>
   <property name="meta.media.sample_aspect_den">151</property>
   <property name="aspect_ratio">1,18543</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.frame_rate_num">1000</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -85,25 +99,8 @@
   <property name="meta.media.height">320</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">96672489</property>
-  <property name="kdenlive:file_hash">ad0ba8a4035ab37e2312224552f71274</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer title="Anonymous Submission" id="2" in="0" out="193">
-  <property name="length">194</property>
-  <property name="eof">pause</property>
-  <property name="resource">portadaSENAcontenidos.svg</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="loop">1</property>
-  <property name="meta.media.width">1536</property>
-  <property name="meta.media.height">1152</property>
-  <property name="mlt_service">pixbuf</property>
-  <property name="kdenlive:duration">125</property>
-  <property name="kdenlive:file_size">19296</property>
-  <property name="kdenlive:file_hash">9f06516deeb4029fb77754a4b5e75baa</property>
+  <property name="kdenlive:file_size">112380195</property>
+  <property name="kdenlive:file_hash">ed32c99da89fa54050b889a99b0447d3</property>
   <property name="global_feed">1</property>
  </producer>
  <playlist id="main bin">
@@ -115,7 +112,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">90</property>
+  <property name="kdenlive:docproperties.position">2872</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -129,7 +126,7 @@
   <property name="kdenlive:docproperties.videotargettrack">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:docproperties.zoom">13</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:docproperties.renderaudioquality">160</property>
@@ -152,15 +149,14 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/debianita86/Documentos/Compilar_con_buildozer.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.documentid">1520800372800</property>
   <property name="xml_retain">1</property>
-  <entry producer="1" in="0" out="124"/>
-  <entry producer="3" in="0" out="7625"/>
-  <entry producer="4" in="0" out="62397"/>
-  <entry producer="2" in="0" out="193"/>
+  <entry producer="1" in="0" out="7625"/>
+  <entry producer="2" in="0" out="124"/>
+  <entry producer="3" in="0" out="124"/>
+  <entry producer="4" in="0" out="62371"/>
  </playlist>
- <producer id="black" in="0" out="62398">
-  <property name="length">62399</property>
+ <producer id="black" in="0" out="62372">
+  <property name="length">62373</property>
   <property name="eof">pause</property>
   <property name="resource">black</property>
   <property name="aspect_ratio">0</property>
@@ -168,7 +164,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry producer="black" in="0" out="62371"/>
+  <entry producer="black" in="0" out="62372"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
@@ -181,50 +177,21 @@
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
  </playlist>
- <producer title="Anonymous Submission" id="3_playlist4" in="0" out="7625">
-  <property name="length">00:05:05:01</property>
-  <property name="eof">pause</property>
-  <property name="resource">Shinichi_408-in-the-morning-320.mp3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="kdenlive:file_size">12203715</property>
-  <property name="kdenlive:file_hash">ca5a64b00ca1ac06b7c0a4aa974b58be</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16p</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">mp3</property>
-  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
-  <property name="meta.media.0.codec.bit_rate">320000</property>
-  <property name="meta.attr.0.stream.encoder.markup">LAME3.93 </property>
-  <property name="meta.attr.title.markup">408 in the morning</property>
-  <property name="meta.attr.artist.markup">Shinichi</property>
-  <property name="meta.attr.comment.markup">(Copyrighted music by 'Shinichi' shared at www.SampleSwap.org) Creative Commons 'Attribution' licensed. See: http://creativecommons.org/licenses/by/3.0/</property>
- </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
-  <entry producer="3_playlist4" in="0" out="193"/>
-  <blank length="61983"/>
-  <entry producer="3_playlist4" in="0" out="193"/>
  </playlist>
- <producer title="Anonymous Submission" id="4_playlist5" in="0" out="62397">
-  <property name="length">00:41:35:23</property>
+ <producer title="Anonymous Submission" id="4_playlist5" in="0" out="62371">
+  <property name="length">00:41:34:22</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/debianita86/Documentos/ReA/Proceso transferencia de conocimiento/Documentos pedagógicos/Material pedagógico/Vídeo tutoriales editados/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/Vídeos para web/modulo_buildozer.webm</property>
+  <property name="resource">/home/debianita86/Documentos/lenguaje python-kivy (Videotutorial parte 17 "Compilar con buildozer"/Vídeos para web/Compilar_con_buildozer.webm</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="aspect_ratio">1,18543</property>
-  <property name="kdenlive:file_size">96672489</property>
-  <property name="kdenlive:file_hash">ad0ba8a4035ab37e2312224552f71274</property>
+  <property name="kdenlive:file_size">112380195</property>
+  <property name="kdenlive:file_hash">ed32c99da89fa54050b889a99b0447d3</property>
   <property name="global_feed">1</property>
   <property name="xml">was here</property>
   <property name="meta.media.nb_streams">2</property>
@@ -238,8 +205,8 @@
   <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
   <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
   <property name="meta.media.0.codec.colorspace">601</property>
-  <property name="meta.media.0.codec.name">vp8</property>
-  <property name="meta.media.0.codec.long_name">On2 VP8</property>
+  <property name="meta.media.0.codec.name">vp9</property>
+  <property name="meta.media.0.codec.long_name">Google VP9</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
   <property name="meta.media.1.stream.type">audio</property>
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
@@ -262,57 +229,20 @@
  </producer>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
-  <entry producer="2" in="0" out="192">
-   <filter id="fade_from_black" out="75">
-    <property name="start">0</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_from_black</property>
-    <property name="tag">brightness</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="end">1</property>
-   </filter>
-   <filter id="fade_to_black" in="117" out="192">
-    <property name="start">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_black</property>
-    <property name="tag">brightness</property>
-    <property name="kdenlive_ix">2</property>
-    <property name="end">0</property>
-   </filter>
-  </entry>
-  <entry producer="4_playlist5" in="193" out="62177">
+  <entry producer="4_playlist5" in="0" out="62371">
    <filter id="volume">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="level">193=14;62177=14</property>
+    <property name="level">0=-14</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
-    <property name="disable"/>
-   </filter>
-  </entry>
-  <entry producer="1" in="0" out="192">
-   <filter id="filter0" out="75">
-    <property name="start">0</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_from_black</property>
-    <property name="tag">brightness</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="end">1</property>
-   </filter>
-   <filter id="filter1" in="117" out="192">
-    <property name="start">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_black</property>
-    <property name="tag">brightness</property>
-    <property name="kdenlive_ix">2</property>
-    <property name="end">0</property>
    </filter>
   </entry>
  </playlist>
- <tractor title="Anonymous Submission" id="maintractor" global_feed="1" in="0" out="62371">
+ <tractor title="Anonymous Submission" id="maintractor" global_feed="1" in="0" out="62372">
   <track producer="black_track"/>
   <track hide="video" producer="playlist1"/>
   <track hide="video" producer="playlist2"/>
