@@ -148,13 +148,13 @@ _____________
 	      class Boton(App):
 	          def build(self):
         	      global wdg
-        global lbl
-        global btn
-        wdg = Widget()
-        lbl = Label()
-        btn = Button()
-        btn.text = "Llamado"
-        btn.pos = (300,100)
+        	      global lbl
+        	      global btn
+        	      wdg = Widget()
+        	      lbl = Label()
+        	      btn = Button()
+        	      btn.text = "Llamado"
+        	      btn.pos = (300,100)
         btn.size = (100, 30)
         wdg.add_widget(btn)        
         lbl.markup= True
