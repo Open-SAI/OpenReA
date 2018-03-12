@@ -164,20 +164,22 @@ _____________
         	      wdg.add_widget(lbl)
         	      btn.bind(on_press=self.ac_btn)
         	      return wdg
+		      
     		  def ac_btn(self, *args):
-        lbl.text = "Hola soy Label uno, llamado por un botón"
-        btn.unbind(on_press=self.ac_btn)
-        btn.bind(on_press=self.ac_btnS)
+        	      lbl.text = "Hola soy Label uno, llamado por un botón"
+        	      btn.unbind(on_press=self.ac_btn)
+        	      btn.bind(on_press=self.ac_btnS)
 
-    def ac_btnS(self, *args):
-        lbl.text = "Hola soy Label dos, llamado por un botón"
-        btn.unbind(on_press=self.ac_btnS)
-        btn.bind(on_press=self.ac_btn)
+    		  def ac_btnS(self, *args):
+        	      lbl.text = "Hola soy Label dos, llamado por un botón"
+        	      btn.unbind(on_press=self.ac_btnS)
+        	      btn.bind(on_press=self.ac_btn)
           
 
-if __name__=="__main__":
-    Boton().run()
-        ```	      
+	  if __name__=="__main__":
+	      Boton().run()
+	      ```
+        	      
 	      
           * __Camara__
 	  
