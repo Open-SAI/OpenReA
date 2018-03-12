@@ -67,7 +67,7 @@ _____________
 **SOFTWARE:**
 _____________
 
-* Desarrollo de firmware (cápsula, contexto)
+* __Desarrollo de firmware (cápsula, contexto):__
   * WIFI (cápsula, tips)
   * ATMEGA 328 PPU (videotutorial)
   * BLUETOOTH (cápsula, tips)
