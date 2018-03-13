@@ -78,11 +78,11 @@ _____________
       
       __Código del programa__
       ```c++
-      #Desarrollado por Diego Alberto Parra Garzón
-      #Bogotá D.C., Colombia
-      #noviembre 20015
-      #Esto es software libre con licencia GPL3
-      #include <SoftwareSerial.h>
+      //Desarrollado por Diego Alberto Parra Garzón
+      //Bogotá D.C., Colombia
+      //noviembre 20015
+      //Esto es software libre con licencia GPL3
+      //include <SoftwareSerial.h>
       //Bluez(Tx,Rx)
       SoftwareSerial Blue(4, 3);
       void setup()
