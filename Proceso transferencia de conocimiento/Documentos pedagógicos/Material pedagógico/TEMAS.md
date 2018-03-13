@@ -299,6 +299,11 @@ _____________
 
 	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el Wifi en el cual se centrara este material, para comenzar la practica puede utilizar el siguiente material: 
 [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%209%20%22pyjnius%20WIFI%22)/V%C3%ADdeo%20para%20web/PyJnius_WIFI.webm )
+	    
+	    __Imágen de la App__
+	    
+	    <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_WIFI_jnius.png" width='250' height='350'>
+
 	  
         * __BLUETOOTH (cápsula, tip)__
 
