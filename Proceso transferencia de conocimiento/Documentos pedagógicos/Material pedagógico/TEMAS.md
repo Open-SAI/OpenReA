@@ -473,10 +473,10 @@ _____________
 	  En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el GPS en el cual se centrara este material, para comenzar la practica puede utilizar el siguiente material: 
 [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22Libreria%20GPS%22)/V%C3%ADdeo%20para%20web/Librer%C3%ADa_GPS.webm "link directo al vídeo") 
 
-      * __buildozer (Vídeo tutorial)__
-        * __Generación y empaquetado de las aplicaciones.__
+      * __buildozer__
+        * __Generación y empaquetado de las aplicaciones.  (Vídeo tutorial)__
 
-        [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22m%C3%B3dulo_buildozer%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2017%20%22Compilar%20con%20buildozer%22/V%C3%ADdeos%20para%20web/modulo_buildozer.webm "link directo al vídeo")
+	    En esta sección se aborda una guía para empaquetar aplicaciones desarrolladas en python con el módulo kivy a través del módulo buildozer, este material puede ser contrastado en el [enlace](https://github.com/kivy/buildozer); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22Libreria%20GPS%22)/V%C3%ADdeo%20para%20web/Librer%C3%ADa_GPS.webm )
 
 * Stack aplicaciones web (Vídeo tutorial): 
   * Servicio Web:
