@@ -238,12 +238,11 @@ _____________
 		      sound = SoundLoader().load("RUTA/AL_ARCHIVO.mp3")
 		      rl.add_widget(cam)
 		      sound.volumen = 3
-        sound.play()
-        return wg
-
-if __name__ == "__main__":
-    Reproductor().run()
-```
+		      sound.play()
+		      return wg
+	      if __name__ == "__main__":
+	          Reproductor().run()
+		  ```
 
 	    
           * __App y sintetizador de voz__
