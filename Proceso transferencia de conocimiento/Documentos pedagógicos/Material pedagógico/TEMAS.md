@@ -476,7 +476,7 @@ _____________
       * __buildozer__
         * __Generación y empaquetado de las aplicaciones.  (Vídeo tutorial)__
 
-	    En esta sección se aborda una guía para empaquetar aplicaciones desarrolladas en python con el módulo kivy a través del módulo buildozer, este material puede ser contrastado en el [enlace](https://github.com/kivy/buildozer); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22Libreria%20GPS%22)/V%C3%ADdeo%20para%20web/Librer%C3%ADa_GPS.webm )
+	    En esta sección se aborda una guía para empaquetar aplicaciones desarrolladas en python con el módulo kivy a través del módulo buildozer, este material puede ser contrastado en el [enlace](https://github.com/kivy/buildozer); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22Libreria%20GPS%22)/V%C3%ADdeo%20para%20web/Librer%C3%ADa_GPS.webm "link directo al vídeo"), o [enlace vídeo](https://drive.google.com/file/d/1HhuYDL8aW1m1nEycfcMKD3d8-MR7yb_j/view "link directo al vídeo")
 
 * Stack aplicaciones web (Vídeo tutorial): 
   * Servicio Web:
@@ -489,7 +489,7 @@ _____________
 
   * __Latex: Generación de textos científicos y de investigación.__
   
-    [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%201%20%22instalaci%C3%B3n%20Latex%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_Latex.webm "link directo al vídeo")
+      En esta sección se aborda de manera didáctica y pedagógica una guía practica para la instalación de Latex y su entorno de trabajo, a su vez da una pequeña introducción a lo que es el desarrollo de textos científicos y publicaciones elaboradas de una manera profesional, como se puede contrastar en el [enlace](http://web.mit.edu/rsi/www/pdfs/new-latex.pdf); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/Instalaci%C3%B3n_Latex.webm)
 
 * __Caja de Herramientas:__
 
