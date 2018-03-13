@@ -79,7 +79,7 @@ _____________
       ```c++
       //Desarrollado por Diego Alberto Parra Garzón
       //Bogotá D.C., Colombia
-      //noviembre 20015
+      //noviembre 2015
       //Esto es software libre 
       //include <SoftwareSerial.h>
       //Bluez(Tx,Rx)
@@ -357,7 +357,7 @@ _____________
 	    #*-*coding:utf-8*-*
 	    #Desarrollado por Diego Alberto Parra Garzón
 	    #Bogotá D.C., Colombia
-	    #noviembre 20017
+	    #noviembre 2017
 	    #Esto es software libre con licencia GPL3
 	    #Libreria WIFI scanner
 	    #dparra@opesai.org
@@ -446,7 +446,7 @@ _____________
 	    #*-*coding:utf-8*-*
 	    #Desarrollado por Diego Alberto Parra Garzón
 	    #Bogotá D.C., Colombia
-	    #noviembre 20015
+	    #noviembre 2015
 	    #Esto es software libre con licencia GPL3
 	    #qpy:kivy
 	    #clase Bluetooth Arduino referencia de la api de pyjnius
