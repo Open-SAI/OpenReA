@@ -138,7 +138,7 @@ _____________
 	      
 	      ```python
 	      #*-*coding:utf-8*-*
-	      #Utilice el siguiente código para visualizar un label con python kivy
+	      #Utilice el siguiente código para visualizar un Button con python kivy
 	      #Esto es software libre 
 	      import kivy
 	      from kivy.uix.label import Label
@@ -191,7 +191,7 @@ _____________
 	      
 	      ```python
 	      #*-*coding:utf-8*-*
-	      #Utilice el siguiente código para visualizar un label con python kivy
+	      #Utilice el siguiente código para visualizar la cámara con python kivy
 	      #Esto es software libre
 	      import kivy
 	      from kivy.uix.relativelayout import RelativeLayout
