@@ -75,6 +75,36 @@ _____________
   * __BLUETOOTH (cápsula, tips)__
 
       En esa sección se aborda el tema de comunicación serial a través de un módulo Bluetooth HC-05, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo bluetooth con el que dispone algunos computadores portátiles; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2019%20%22Firmware%20Bluetooth%22/V%C3%ADdeos%20para%20web/Firmware_Bluetooth.webm )
+      
+      __Código del programa__
+      ```c++
+      #include <SoftwareSerial.h>
+      //Bluez(Tx,Rx)
+      SoftwareSerial Blue(4, 3);
+      void setup()
+      {
+        Blue.begin(9600);
+	delay(500);
+      }
+      
+     void loop()
+     {
+       char valor =   Blue.read();
+       switch(valor)
+       {
+         case 'a':
+	   {
+             Blue.println("Esta es la opción 1 \r\n");
+             break;
+	   }
+	 case '3':
+	 {
+           Blue.println("Esta es la opción 2\r\n");
+           break;
+	 }
+      }
+    }
+    ```
   
   * RFID (cápsula, tips)
   
