@@ -390,8 +390,10 @@ _____________
 	  
           * RFID
 	  
-	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el Bluetooth en el cual se centrara este material, para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22Libreria%20Bluetooth%22)/V%C3%ADdeo%20para%20web/Libreria_Bluetooth.webm  )
-	    Código de la librería
+	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el Bluetooth en el cual se centrara este material, para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22Libreria%20Bluetooth%22)/V%C3%ADdeo%20para%20web/Libreria_Bluetooth.webm "link directo al vídeo")
+	    
+	    __Código de la librería__
+	    
 	    ```python
 	    #*-*coding:utf-8*-*
 	    #qpy:kivy
@@ -466,7 +468,9 @@ _____________
 	    print Arduino.Leer()
 	    ```
 
-        * GPS (Cápsula, tip)
+        * __GPS (Cápsula, tip)__
+	  En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el GPS en el cual se centrara este material, para comenzar la practica puede utilizar el siguiente material: 
+[enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2011%20%22Libreria%20GPS%22)/V%C3%ADdeo%20para%20web/Librer%C3%ADa_GPS.webm "link directo al vídeo") 
 
       * __buildozer (Vídeo tutorial)__
         * __Generación y empaquetado de las aplicaciones.__
