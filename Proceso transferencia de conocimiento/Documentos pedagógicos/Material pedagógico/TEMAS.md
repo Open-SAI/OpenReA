@@ -220,7 +220,31 @@ _____________
 	    
           * __Audio__
 
-	      En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización del reproductor de audio dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://kivy.org/docs/api-kivy.core.audio.html); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%205%20%22Audio%22)/V%C3%ADdeo%20para%20web/Python-kivy_audio.webm) 
+	      En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización del reproductor de audio dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://kivy.org/docs/api-kivy.core.audio.html); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%205%20%22Audio%22)/V%C3%ADdeo%20para%20web/Python-kivy_audio.webm)
+	      
+	      __Código del programa__
+	      
+	      ```python
+	      #*-*coding:utf-8*-*
+	      #Esto es software libre
+	      #Código para cargar y reproducir un archivo de audio
+	      #qpy:kivy
+	      from kivy.uix.widget import Widget
+	      from kivy.core.audio import SoundLoader
+	      from kivy.app import App
+	      class Reproductor(App):
+	      def build(self):
+                  wg = Widget()
+        sound = SoundLoader().load("RUTA/AL_ARCHIVO.mp3")
+        rl.add_widget(cam)
+        sound.volumen = 3
+        sound.play()
+        return wg
+
+if __name__ == "__main__":
+    Reproductor().run()
+```
+
 	    
           * __App y sintetizador de voz__
 
