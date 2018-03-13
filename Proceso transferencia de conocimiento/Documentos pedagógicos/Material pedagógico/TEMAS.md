@@ -308,22 +308,21 @@ _____________
 	    __Código de la librería__
 
 	    ```python
-	       #*-*coding:utf-8*-*
-	       #Desarrollado por Diego Alberto Parra Garzón
-	       #Bogotá D.C., Colombia
-	       #noviembre 20017
-	       #Esto es software libre con licencia GPL3
-	       #qpy:kivy
-	       import jnius
-	       from kivy.utils import platform
-	       from jnius import autoclass, cast
-	       class Wifi_List_O:
-	           def __init__(self):
-		   Context = autoclass('android.content.Context')
-        PythonActivity = autoclass('org.renpy.android.PythonActivity')
-        self.WifiManager = autoclass('android.net.wifi.WifiManager')
-            
-        self.wifi_service = PythonActivity.mActivity.getSystemService(Context.WIFI_SERVICE)
+	    #*-*coding:utf-8*-*
+	    #Desarrollado por Diego Alberto Parra Garzón
+	    #Bogotá D.C., Colombia
+	    #noviembre 20017
+	    #Esto es software libre con licencia GPL3
+	    #qpy:kivy
+	    import jnius
+	    from kivy.utils import platform
+	    from jnius import autoclass, cast
+	    class Wifi_List_O:
+	        def __init__(self):
+		    Context = autoclass('android.content.Context')
+		    PythonActivity = autoclass('org.renpy.android.PythonActivity')
+		    self.WifiManager = autoclass('android.net.wifi.WifiManager')
+		    self.wifi_service = PythonActivity.mActivity.getSystemService(Context.WIFI_SERVICE)
         
            
         
