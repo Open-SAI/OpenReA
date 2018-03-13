@@ -262,7 +262,7 @@ _____________
       
         * __Integración de librerías y funcionalidades con python-jnius (Vídeo tutorial)__
 
-	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el Bluetooth, Wifi, GPS, cámara, entre otras cosas con las que dispone estos dispositivos, para comenzar la practica puede utilizar el siguiente material: 
+	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el Bluetooth, Wifi, GPS, cámara, entre otras cosas con las que dispone estos dispositivos, esta información se puede verificar en el [enlace](http://www.qpython.com/), para comenzar la practica puede utilizar el siguiente material: 
 [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%208%20%22Introducci%C3%B3n%20Pyjnius%20en%20android%22)/V%C3%ADdeo%20para%20web/Introducci%C3%B3n_PyJnius_en_Python.webm "link directo al vídeo")
 
 	      __Imágen de la App__
@@ -288,7 +288,8 @@ _____________
 	    
         * __qr code / zbar__
 
-          [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%209%20%22Qrcode%20y%20zbar%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2012%20%22qrcode%20-%20zbar%22)/V%C3%ADdeo%20para%20web/Python-PyJnius_zbar-qrcode.webm "link directo al vídeo")
+	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también visualizar el proceso que es  para comenzar a utilizar otras librerías propias de android y opencv para reconocimiento de patrones qr; esta información se puede verificar en el [enlace](https://github.com/tito/android-zbar-qrcode),  para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2012%20%22qrcode%20-%20zbar%22)/V%C3%ADdeo%20para%20web/Python-PyJnius_zbar-qrcode.webm)
+
 
         * __Wifi__
 
