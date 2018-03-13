@@ -25,7 +25,6 @@ _____________
       	  En esta sección se realiza una contextualización de la tecnología RFID y de los módulos electrónicos empleados para el desarrollo de proyectos IoT, en particular el módulo RC-522, brindando un aterrizaje de la hoja de datos de ofrece el fabricante [Hoja de Datos](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf); a su vez se muestra la arquitectura básica de dicho módulo así como sus posibles usos a nivel comercial o de desarrollo individual. [Enlace al vídeo. ](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/RFID%20(c%C3%A1psula%2C%20Pr%C3%A1ctica)/V%C3%ADdeo%20para%20web/RFID.webm "Enlace directo al vídeo.")
 
 
-
       
       * **BLUETOOTH (cápsula, Práctica).**
       
@@ -112,7 +111,9 @@ _____________
   
   * __RFID (cápsula, tips)__
   
-      En esa sección se aborda el tema de lectura de módulos de identificación por radiofrecuencia, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo con el que se puede desarrollar múltiples sistemas de identificación basados en comunicación inalámbrica ; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2020%20%22Firmware%20RFID%22/V%C3%ADdeos%20para%20web/Firmware_RFID.webm )
+      En esa sección se aborda el tema de lectura de módulos de identificación por radiofrecuencia, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo con el que se puede desarrollar múltiples sistemas de identificación basados en comunicación inalámbrica ; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2020%20%22Firmware%20RFID%22/V%C3%ADdeos%20para%20web/Firmware_RFID.webm )      
+      
+      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_firmware_rfid.png"  width='250' height='350'>
   
   * GPS (cápsula, tips)
   
