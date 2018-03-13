@@ -101,7 +101,6 @@ _____________
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_label.png" width='450' height='250'>
 
 
-
 	      __Código del programa__
 	      ```python
 	      #*-*coding:utf-8*-*
@@ -188,6 +187,7 @@ _____________
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_camera.png" width='450' height='350'>
 	      
               __Código del programa__
+	      
 	      ```python
 	      #*-*coding:utf-8*-*
 	      #Utilice el siguiente código para visualizar un label con python kivy
