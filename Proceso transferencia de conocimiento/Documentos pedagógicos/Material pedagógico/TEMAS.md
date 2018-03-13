@@ -489,7 +489,7 @@ _____________
 
   * __Latex: Generación de textos científicos y de investigación.__
   
-      En esta sección se aborda de manera didáctica y pedagógica una guía practica para la instalación de Latex y su entorno de trabajo, a su vez da una pequeña introducción a lo que es el desarrollo de textos científicos y publicaciones elaboradas de una manera profesional, como se puede contrastar en el [enlace](http://web.mit.edu/rsi/www/pdfs/new-latex.pdf); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/Instalaci%C3%B3n_Latex.webm)
+      En esta sección se aborda de manera didáctica y pedagógica una guía practica para la instalación de Latex y su entorno de trabajo, a su vez da una pequeña introducción a lo que es el desarrollo de textos científicos y publicaciones elaboradas de una manera profesional, como se puede contrastar en el [enlace](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/Instalaci%C3%B3n_Latex.webm "link directo al vídeo")
 
 * __Caja de Herramientas:__
 
