@@ -419,16 +419,15 @@ _____________
 				self.conexion = True
 				print "paso la conexion en la clase"
 			return self.conexion
-		def Escribir(self, Mensaje, *args):
-        if self.conexion == True:
-            self.enviar.write(Mensaje)
-            print "Mensaj enviado"
-        else:
-            print "Dispositivo no esta conectado"
-
-    def LeerNUMERO(self, *args):
-        CadenaDatos = ""
-        if self.conexion == True:
+		    def Escribir(self, Mensaje, *args):
+		        if self.conexion == True:
+		            self.enviar.write(Mensaje)
+			    print "Mensaj enviado"
+			else:
+			    print "Dispositivo no esta conectado"
+		    def LeerNUMERO(self, *args):
+		        CadenaDatos = ""
+			if self.conexion == True:
             print "revisando conexion"
             print self.conexion
             lectura =1
