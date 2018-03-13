@@ -428,49 +428,43 @@ _____________
 		    def LeerNUMERO(self, *args):
 		        CadenaDatos = ""
 			if self.conexion == True:
-            print "revisando conexion"
-            print self.conexion
-            lectura =1
-            if (lectura>0):
-                CadenaDatos =  float(self.recibir.readLine())                
-                print "Lectura correcta ", CadenaDatos 
-        return CadenaDatos
-        
-
-    def LeerCADENA(self, *args):
-        CadenaDatos = ""
-        if self.conexion == True:
-            print "revisando conexion"
-            print self.conexion
-            lectura =1
-            if (lectura>0):
-                CadenaDatos =  str(self.recibir.readLine())
-                print "Lectura correcta ", CadenaDatos 
-        return CadenaDatos        
-
-    def Cerrar(self):
-        if self.conexion:
-            self.enchufe.close()
-            print "Dispositivo cerrado"
-
-    def __init__(self):
-        self.AdaptadorBluetooth = autoclass('android.bluetooth.BluetoothAdapter')
-        self.DispositivoBluetooth = autoclass('android.bluetooth.BluetoothDevice')
-        self.enchufe_Bluetooth = autoclass('android.bluetooth.BluetoothSocket')
-        self.UUID = autoclass('java.util.UUID')
-        self.Lecturabufer = autoclass('java.io.BufferedReader')
-        self.EntradaDeDatos = autoclass('java.io.InputStreamReader')
-        self.conexion = False
-        
-        
-    def __del__(self):
-        print "destructor de la clase ArduinoBluetooth"
-        
-#Arduino = ArduinoBluetooth()
-#Arduino.obtenerCorrienteEnchufe("HC-05")
-#Arduino.Escribir('1')
-#print Arduino.Leer()
-```
+			    print "revisando conexion"
+			    print self.conexion
+			    lectura =1
+			if (lectura>0):
+			    CadenaDatos =  float(self.recibir.readLine())
+			    print "Lectura correcta ", CadenaDatos
+			return CadenaDatos
+			
+		    def LeerCADENA(self, *args):
+		        CadenaDatos = ""
+			if self.conexion == True:
+			    print "revisando conexion"
+			    print self.conexion
+			    lectura =1
+			if (lectura>0):
+			    CadenaDatos =  str(self.recibir.readLine())
+			    print "Lectura correcta ", CadenaDatos
+			return CadenaDatos
+		    def Cerrar(self):
+		        if self.conexion:
+			    self.enchufe.close()
+			    print "Dispositivo cerrado"
+		    def __init__(self):
+		        self.AdaptadorBluetooth = autoclass('android.bluetooth.BluetoothAdapter')
+			self.DispositivoBluetooth = autoclass('android.bluetooth.BluetoothDevice')
+			self.enchufe_Bluetooth = autoclass('android.bluetooth.BluetoothSocket')
+			self.UUID = autoclass('java.util.UUID')
+			self.Lecturabufer = autoclass('java.io.BufferedReader')
+			self.EntradaDeDatos = autoclass('java.io.InputStreamReader')
+			self.conexion = False
+		    def __del__(self):
+		        print "destructor de la clase ArduinoBluetooth"
+	    Arduino = ArduinoBluetooth()
+	    Arduino.obtenerCorrienteEnchufe("HC-05")
+	    Arduino.Escribir('1')
+	    print Arduino.Leer()
+	    ```
 
         * GPS (Cápsula, tip)
 
