@@ -235,10 +235,9 @@ _____________
 	      class Reproductor(App):
 	      def build(self):
 	          wg = Widget()
-		  sound = SoundLoader().load("RUTA/AL_ARCHIVO.mp3")
-		
-        rl.add_widget(cam)
-        sound.volumen = 3
+		      sound = SoundLoader().load("RUTA/AL_ARCHIVO.mp3")
+		      rl.add_widget(cam)
+		      sound.volumen = 3
         sound.play()
         return wg
 
