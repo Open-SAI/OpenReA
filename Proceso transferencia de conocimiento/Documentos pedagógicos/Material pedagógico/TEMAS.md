@@ -495,7 +495,7 @@ _____________
 
   * __Arduino IDE (cápsula, Práctica).__
   
-    [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/Instalaci%C3%B3n%20entorno%20de%20trabajo%20(Videotutorial%20parte%202%20%22instalaci%C3%B3n%20arduino%20ide%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2016%22Instalaci%C3%B3n_latex%22/V%C3%ADdeos%20para%20web/instalaci%C3%B3n_Latex.webm "link directo al vídeo")
+      En esta sección se aborda de manera didáctica y pedagógica una guía practica para la instalación de Arduino Ide, se describen sus principales características, así mismo se brinda varios ejemplos sobre el uso de esta herramienta tan poderosa para desarrollar firmware; esta información se puede contrastar en el el siguiente [enlace](https://www.arduino.cc/en/Main/Software), para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2018%20%22Instalaci%C3%B3n_arduino_IDE%22/V%C3%ADdeos%20para%20web/Arduino-IDE-instalaci%C3%B3n.webm )
     
   * __Fritzing PCB-suite (cápsula, Práctica).__
   
