@@ -313,6 +313,9 @@ _____________
 	    #Bogotá D.C., Colombia
 	    #noviembre 20017
 	    #Esto es software libre con licencia GPL3
+	    #Libreria WIFI scanner
+	    #dparra@opesai.org
+
 	    #qpy:kivy
 	    import jnius
 	    from kivy.utils import platform
@@ -386,8 +389,91 @@ _____________
           * geoposicionamiento
 	  
           * RFID
-
+	  
 	    En esta sección se aborda el tema del uso de librerías nativas de android y de java, llamadas desde código python, lo cual permite tener acceso a los diferentes sensores con los que cuenta nuestros dispositivos móviles, como a su vez también permite tener control sobre el Bluetooth en el cual se centrara este material, para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2010%20%22Libreria%20Bluetooth%22)/V%C3%ADdeo%20para%20web/Libreria_Bluetooth.webm  )
+	    Código de la librería
+	    ```python
+	    #*-*coding:utf-8*-*
+	    #qpy:kivy
+	    #*-*coding:utf-8*-*
+	    #Desarrollado por Diego Alberto Parra Garzón
+	    #Bogotá D.C., Colombia
+	    #noviembre 20015
+	    #Esto es software libre con licencia GPL3
+	    #qpy:kivy
+	    #clase Bluetooth Arduino referencia de la api de pyjnius
+	    #dparra@opesai.org
+	    from jnius import autoclass
+	    
+	    class ArduinoBluetooth:
+	        def obtenerCorrienteEnchufe(self, Nombre):
+        conectar_dispositivo = self.AdaptadorBluetooth.getDefaultAdapter().getBondedDevices().toArray()
+        self.enchufe = None
+        for dispositivo in conectar_dispositivo:
+            if dispositivo.getName() == Nombre:
+                self.enchufe = dispositivo.createRfcommSocketToServiceRecord(self.UUID.fromString("00001101-0000-1000-8000-00805F9B34FB"))
+             #   self.recibir = self.enchufe.getInputStream()
+                self.recibir = self.Lecturabufer(self.EntradaDeDatos(self.enchufe.getInputStream()))
+                self.enviar = self.enchufe.getOutputStream()
+                self.enchufe.connect()
+                self.conexion = True
+                print "paso la conexion en la clase"
+        return self.conexion
+                
+            
+    def Escribir(self, Mensaje, *args):
+        if self.conexion == True:
+            self.enviar.write(Mensaje)
+            print "Mensaj enviado"
+        else:
+            print "Dispositivo no esta conectado"
+
+    def LeerNUMERO(self, *args):
+        CadenaDatos = ""
+        if self.conexion == True:
+            print "revisando conexion"
+            print self.conexion
+            lectura =1
+            if (lectura>0):
+                CadenaDatos =  float(self.recibir.readLine())                
+                print "Lectura correcta ", CadenaDatos 
+        return CadenaDatos
+        
+
+    def LeerCADENA(self, *args):
+        CadenaDatos = ""
+        if self.conexion == True:
+            print "revisando conexion"
+            print self.conexion
+            lectura =1
+            if (lectura>0):
+                CadenaDatos =  str(self.recibir.readLine())
+                print "Lectura correcta ", CadenaDatos 
+        return CadenaDatos        
+
+    def Cerrar(self):
+        if self.conexion:
+            self.enchufe.close()
+            print "Dispositivo cerrado"
+
+    def __init__(self):
+        self.AdaptadorBluetooth = autoclass('android.bluetooth.BluetoothAdapter')
+        self.DispositivoBluetooth = autoclass('android.bluetooth.BluetoothDevice')
+        self.enchufe_Bluetooth = autoclass('android.bluetooth.BluetoothSocket')
+        self.UUID = autoclass('java.util.UUID')
+        self.Lecturabufer = autoclass('java.io.BufferedReader')
+        self.EntradaDeDatos = autoclass('java.io.InputStreamReader')
+        self.conexion = False
+        
+        
+    def __del__(self):
+        print "destructor de la clase ArduinoBluetooth"
+        
+#Arduino = ArduinoBluetooth()
+#Arduino.obtenerCorrienteEnchufe("HC-05")
+#Arduino.Escribir('1')
+#print Arduino.Leer()
+```
 
         * GPS (Cápsula, tip)
 
