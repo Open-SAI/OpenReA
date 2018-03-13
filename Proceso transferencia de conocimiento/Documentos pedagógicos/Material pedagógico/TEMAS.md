@@ -324,7 +324,7 @@ _____________
 			self.WifiManager = autoclass('android.net.wifi.WifiManager')
 			self.wifi_service = PythonActivity.mActivity.getSystemService(Context.WIFI_SERVICE)
 			
-		def EscanaerRedes(self, *args):
+		    def EscanaerRedes(self, *args):
         try: 
             print "-----------------------7----------------------------"
             self.wifi_service.startScan()  
