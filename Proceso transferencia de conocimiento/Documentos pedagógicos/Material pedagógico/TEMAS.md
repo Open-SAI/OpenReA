@@ -392,12 +392,12 @@ _____________
 			print "Esto es el array que devuelve la clase WIFILIST_0: "
 			print var
 			return var
-	#wifilist = Wifi_List_O()
-	#wifilist.EscanaerRedes()
-	#var = []
-	#var = wifilist.REDES_WIFI_O()
-	#print var
-	```
+	    #wifilist = Wifi_List_O()
+	    #wifilist.EscanaerRedes()
+	    #var = []
+	    #var = wifilist.REDES_WIFI_O()
+	    #print var
+	    ```
 
 	  
         * __BLUETOOTH (cápsula, tip)__
