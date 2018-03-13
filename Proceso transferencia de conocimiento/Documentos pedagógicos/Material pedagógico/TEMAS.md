@@ -339,49 +339,48 @@ _____________
 			print "-----------------------12----------------------------"
 			for i in range (0, self.wifiList.size(), 1):
 			    print "-----------------------13----------------------------"
-				    print "-----------------------14----------------------------"
-				    lst = self.wifiList.get(i).toString()
-				    print "-----------------------15----------------------------"
-				    variables_wifi.append(lst)
-				    print "-----------------------16----------------------------"
-				    try:
-					print "-----------------------16A----------------------------"
-					Long_var_wifi = len(variables_wifi)
-            print Long_var_wifi
-            REDES = []
-            lol = []
-            lolo1 = []
-            lolo2 = []
-            lolo3 = []
-            for i in range (0,  Long_var_wifi, 1):
-                tor = str(variables_wifi[i])
-                print "-----------------------18----------------------------"
-                lol = tor.split(',')
-                print "-----------------------18A----------------------------"
-                print lol
-                lolo1 = lol[0].split(' ')
-                print "-----------------------18B----------------------------"
-                SSID = lolo1[1]
-                print "-----------------------18C----------------------------"
-                lolo2 = lol[1].split(' ')
-                BSSID = lolo2[2]
-                print "-----------------------18D----------------------------"
-                lolo3 = lol[4].split(' ')
-                dBi = lolo3[2]
-                print "-----------------------18E----------------------------"
-                lista = str(SSID) +" "+ str(BSSID) + " " + str(dBi)
-                print "-----------------------18F----------------------------"
-                REDES.append(lista)
-                print "-----------------------18G----------------------------"
-                print REDES
-                #            print REDES[1]
-                print "-----------------------19----------------------------"
-            self.REDES = REDES
-            var = []
-            print "ACA esta lo que devueve el array " + str(var)   
-            self.REDES_WIFI_O()
-
-        except:
+			    print "-----------------------14----------------------------"
+			    lst = self.wifiList.get(i).toString()
+			    print "-----------------------15----------------------------"
+			    variables_wifi.append(lst)
+			    print "-----------------------16----------------------------"
+			try:
+			    print "-----------------------16A----------------------------"
+			    Long_var_wifi = len(variables_wifi)
+			    print Long_var_wifi
+			    REDES = []
+			    lol = []
+			    lolo1 = []
+			    lolo2 = []
+			    lolo3 = []
+			    for i in range (0,  Long_var_wifi, 1):
+			        tor = str(variables_wifi[i])
+				print "-----------------------18----------------------------"
+				lol = tor.split(',')
+				print "-----------------------18A----------------------------"
+				print lol
+				lolo1 = lol[0].split(' ')
+				print "-----------------------18B----------------------------"
+				SSID = lolo1[1]
+				print "-----------------------18C----------------------------"
+				lolo2 = lol[1].split(' ')
+				BSSID = lolo2[2]
+				print "-----------------------18D----------------------------"
+				lolo3 = lol[4].split(' ')
+				dBi = lolo3[2]
+				print "-----------------------18E----------------------------"
+				lista = str(SSID) +" "+ str(BSSID) + " " + str(dBi)
+				print "-----------------------18F----------------------------"
+				REDES.append(lista)
+				print "-----------------------18G----------------------------"
+				print REDES
+				#            print REDES[1]
+				print "-----------------------19----------------------------"
+				self.REDES = REDES
+				var = []
+				print "ACA esta lo que devueve el array " + str(var)
+				self.REDES_WIFI_O()
+			except:
             print "-----------------------21 ----------------------------"
 
     
