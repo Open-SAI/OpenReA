@@ -382,21 +382,22 @@ _____________
 				self.REDES_WIFI_O()
 			except:
 			    print "-----------------------21 ----------------------------"
-		def __del__(self):
-        print "Destructor de la clase WifiList_O"
-
-    def REDES_WIFI_O(self):
-        var = []
-        var = self.REDES
-        print "Esto es el array que devuelve la clase WIFILIST_0: "
-        print var
-        return var
-#wifilist = Wifi_List_O()        
-#wifilist.EscanaerRedes()
-#var = []
-#var = wifilist.REDES_WIFI_O()
-#print var 
-```
+			    
+		    def __del__(self):
+		        print "Destructor de la clase WifiList_O"
+			
+		    def REDES_WIFI_O(self):
+		        var = []
+			var = self.REDES
+			print "Esto es el array que devuelve la clase WIFILIST_0: "
+			print var
+			return var
+	#wifilist = Wifi_List_O()
+	#wifilist.EscanaerRedes()
+	#var = []
+	#var = wifilist.REDES_WIFI_O()
+	#print var
+	```
 
 	  
         * __BLUETOOTH (cápsula, tip)__
