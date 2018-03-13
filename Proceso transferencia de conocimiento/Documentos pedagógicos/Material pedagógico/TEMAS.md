@@ -248,10 +248,15 @@ _____________
 
 	      En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización de un convertidor de texto en audio dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://media.readthedocs.org/pdf/pyjnius/latest/pyjnius.pdf); para comenzar la practica puede utilizar el siguiente material: [enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%206%20%22App%2C%20Sintetizador%20de%20voz%2C%20%20Programaci%C3%B3n%20modular%22)/V%C3%ADdeo%20para%20web/Python-kivy_programaci%C3%B3n_modular_y_sintetizador_de_voz.webm "Enlace directo al vídeo.")
 
-          * __lenguaje kv y programación módular__
+          * __lenguaje kv y programación modular__
 
-            [![link directo al vídeo](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/lenguaje%20python-kivy%20(Videotutorial%20parte%207%20%22lenguaje%20kv%22).png)](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%207%20%22Lenguaje%20kv%22)/V%C3%ADdeo%20para%20web/Python-kivy_Lenguaje_kv.webm "link directo al vídeo") 
-
+	      En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización del lenguaje kv y como utilizar la programación modular dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://kivy.org/docs/guide/lang.html); para comenzar la practica puede utilizar el siguiente material: 
+[enlace al vídeo.](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%207%20%22Lenguaje%20kv%22)/V%C3%ADdeo%20para%20web/Python-kivy_Lenguaje_kv.webm )
+	      
+	      __Imágen de la App__
+	      
+	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_capas.png" width='450' height='350'>
+	      
  
       * __Logíca, funcionamiento y uso de sensores en la App (Video tutorial).__
       
