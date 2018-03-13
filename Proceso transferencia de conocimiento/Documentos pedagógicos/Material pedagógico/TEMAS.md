@@ -419,9 +419,7 @@ _____________
 				self.conexion = True
 				print "paso la conexion en la clase"
 			return self.conexion
-                
-            
-    def Escribir(self, Mensaje, *args):
+		def Escribir(self, Mensaje, *args):
         if self.conexion == True:
             self.enviar.write(Mensaje)
             print "Mensaj enviado"
