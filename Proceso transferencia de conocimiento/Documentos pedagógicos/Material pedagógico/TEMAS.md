@@ -362,6 +362,7 @@ _____________
 				print "ACA esta lo que devueve el array " + str(var)
 				self.REDES_WIFI_O()
 			except:
+			    pass
 			    
 		    def __del__(self):
 		        print "Destructor de la clase WifiList_O"
