@@ -327,10 +327,10 @@ _____________
 		    def EscanaerRedes(self, *args):
 		    	try:
 			    print "-----------------------7----------------------------"
-				self.wifi_service.startScan()
-				print "-----------------------8----------------------------"
-				self.wifiList = self.WifiManager.getScanResults()
-				print "-----------------------10----------------------------"
+			    self.wifi_service.startScan()
+			    print "-----------------------8----------------------------"
+			    self.wifiList = self.WifiManager.getScanResults()
+			    print "-----------------------10----------------------------"
 			except:
 				print "-----------------------11----------------------------"
 				pass
