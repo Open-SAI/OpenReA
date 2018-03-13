@@ -269,6 +269,22 @@ _____________
 	      
 	      <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_qpython.png" width='250' height='350'>
 	      
+	      __Código del programa__
+	      ```python
+	      #*-*coding:utf-8*-*
+	      #Esto es software libre
+	      #Código de testeo de Jnius en android
+	      #qpy:kivy
+	      from jnius import autoclass
+	      Stack = autoclass('java.util.Stack')
+	      stack = Stack()
+	      stack.push('hello')
+	      stack.push('world')
+	      print stack.pop()
+	      # --> 'world'
+	      print stack.pop()
+	      # --> 'hello'
+	      ```
 	    
         * __qr code / zbar__
 
