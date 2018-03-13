@@ -554,7 +554,7 @@ _____________
 ______________________________________________________________________________________________________________
   * __Python (Guía de supervivencia)__
   
-  [![Revise la guía de supervivencia dando click en este texto. ](http://es.tldp.org/Tutoriales/Python/tut.pdf "Hacer Click sobre el texto.")
+   [Revise la guía de supervivencia dando click en este texto. ](http://es.tldp.org/Tutoriales/Python/tut.pdf "Hacer Click sobre el texto.")
 _______________________________________________________________________________________________________________
   
   * __Comandos de consola (Guía de supervivencia)__
