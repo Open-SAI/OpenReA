@@ -73,7 +73,7 @@ _____________
   
   * __BLUETOOTH (cápsula, tips)__
 
-      En esa sección se aborda el tema de comunicación serial a través de un módulo Bluetooth HC-05, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo bluetooth con el que dispone algunos computadores portátiles; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2019%20%22Firmware%20Bluetooth%22/V%C3%ADdeos%20para%20web/Firmware_Bluetooth.webm )
+      En esa sección se aborda el tema de comunicación serial a través de un módulo Bluetooth HC-05, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo bluetooth con el que dispone algunos computadores portátiles; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2019%20%22Firmware%20Bluetooth%22/V%C3%ADdeos%20para%20web/Firmware_Bluetooth.webm "Enlace directo al vídeo.")
       
       __Código del programa__
       ```c++
@@ -111,13 +111,13 @@ _____________
   
   * __RFID (cápsula, tips)__
   
-      En esa sección se aborda el tema de lectura de módulos de identificación por radiofrecuencia, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo con el que se puede desarrollar múltiples sistemas de identificación basados en comunicación inalámbrica ; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2020%20%22Firmware%20RFID%22/V%C3%ADdeos%20para%20web/Firmware_RFID.webm )      
+      En esa sección se aborda el tema de lectura de módulos de identificación por radiofrecuencia, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo con el que se puede desarrollar múltiples sistemas de identificación basados en comunicación inalámbrica ; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2020%20%22Firmware%20RFID%22/V%C3%ADdeos%20para%20web/Firmware_RFID.webm "Enlace directo al vídeo." )      
       
       <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_firmware_rfid.png"  width='550' height='350'>
   
   * __GPS (cápsula, tips)__
   
-      En esa sección se aborda el tema de lectura de módulos de posicionamiento satélital, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo con el que se puede desarrollar múltiples sistemas de referencia para elaborar proyectos que involucren geo-refrenciación  ; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2021%20%22Firmware%20GPS-neo%22/V%C3%ADdeos%20para%20web/Firmware_GPS-neo.webm )        
+      En esa sección se aborda el tema de lectura de módulos de posicionamiento satélital, así mismo se brinda un recurso didáctico para el aprendizaje en el uso del módulo con el que se puede desarrollar múltiples sistemas de referencia para elaborar proyectos que involucren geo-refrenciación  ; para acceder al material: [enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%2021%20%22Firmware%20GPS-neo%22/V%C3%ADdeos%20para%20web/Firmware_GPS-neo.webm "Enlace directo al vídeo.")        
   
   * Display (cápsula, tips)
 
