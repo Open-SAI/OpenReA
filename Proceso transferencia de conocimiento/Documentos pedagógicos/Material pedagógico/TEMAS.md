@@ -211,7 +211,10 @@ _____________
 		
           * __Capas__
 
-	      En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización de capas dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://kivy.org/docs/api-kivy.uix.widget.html); para comenzar la practica puede utilizar el siguiente material: [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%204%20%22Capas%22)/V%C3%ADdeo%20para%20web/Python-kivy_capas.webm )
+	      En esta sección se adopta el modelo de enseñanza significativa a partir de ejemplos concisos y claros sobre la utilización de capas dentro de las interfaces gráficas que estemos desarrollando; se puede verificar esta información en el [enlace](https://kivy.org/docs/api-kivy.uix.widget.html); para comenzar la practica puede utilizar el siguiente material: [Enlace al vídeo](https://raw.githubusercontent.com/Open-SAI/ReA/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/V%C3%ADdeo%20tutoriales%20editados/lenguaje%20python-kivy%20(Videotutorial%20parte%204%20%22Capas%22)/V%C3%ADdeo%20para%20web/Python-kivy_capas.webm "Enlace directo al vídeo.")
+
+	      __Imágen de la App__
+	       <img src="https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/Material%20pedag%C3%B3gico/C%C3%A1psulas%20editadas/Img/img_capas.png"  width='450' height='350')
 	    
           * __Audio__
 
