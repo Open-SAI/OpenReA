@@ -319,12 +319,10 @@ _____________
 	    from jnius import autoclass, cast
 	    class Wifi_List_O:
 	        def __init__(self):
-
 			Context = autoclass('android.content.Context')
-		    PythonActivity = autoclass('org.renpy.android.PythonActivity')
-		    self.WifiManager = autoclass('android.net.wifi.WifiManager')
-		    self.wifi_service = PythonActivity.mActivity.getSystemService(Context.WIFI_SERVICE)
-        
+			PythonActivity = autoclass('org.renpy.android.PythonActivity')
+			self.WifiManager = autoclass('android.net.wifi.WifiManager')
+			self.wifi_service = PythonActivity.mActivity.getSystemService(Context.WIFI_SERVICE)        
            
         
     def EscanaerRedes(self, *args):
