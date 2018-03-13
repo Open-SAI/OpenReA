@@ -325,29 +325,27 @@ _____________
 			self.wifi_service = PythonActivity.mActivity.getSystemService(Context.WIFI_SERVICE)
 			
 		    def EscanaerRedes(self, *args):
-        try: 
-            print "-----------------------7----------------------------"
-            self.wifi_service.startScan()  
-            print "-----------------------8----------------------------"  
-            self.wifiList = self.WifiManager.getScanResults()
-            print "-----------------------10----------------------------"
-        except:            
-            print "-----------------------11----------------------------"
-            pass
-        variables_wifi = []
-        print "-----------------------12----------------------------"
-            
-        for i in range (0, self.wifiList.size(), 1):
-            print "-----------------------13----------------------------"
-            print "-----------------------14----------------------------"
-            lst = self.wifiList.get(i).toString()
-            print "-----------------------15----------------------------"
-            variables_wifi.append(lst)
-            print "-----------------------16----------------------------"
-
-        try:
-            print "-----------------------16A----------------------------"
-            Long_var_wifi = len(variables_wifi)
+		    	try:
+				print "-----------------------7----------------------------"
+				self.wifi_service.startScan()
+				print "-----------------------8----------------------------"
+				self.wifiList = self.WifiManager.getScanResults()
+				print "-----------------------10----------------------------"
+			except:
+				print "-----------------------11----------------------------"
+				pass
+				variables_wifi = []
+				print "-----------------------12----------------------------"
+				for i in range (0, self.wifiList.size(), 1):
+				    print "-----------------------13----------------------------"
+				    print "-----------------------14----------------------------"
+				    lst = self.wifiList.get(i).toString()
+				    print "-----------------------15----------------------------"
+				    variables_wifi.append(lst)
+				    print "-----------------------16----------------------------"
+				    try:
+					print "-----------------------16A----------------------------"
+					Long_var_wifi = len(variables_wifi)
             print Long_var_wifi
             REDES = []
             lol = []
