@@ -1,0 +1,57 @@
+#*-*coding:utf-8*-*
+from kivy.clock import Clock
+
+class CompararUsuario:
+    global array
+    array = []
+
+    def CargarArray(self):
+        with open("DataBase.text", "r") as f:
+            for line in f:
+                array.append(line)
+
+    def CompararArray(self, valorAcomparar):
+        global nuid
+        global i
+        i = 2
+        nuid = str(valorAcomparar)
+        print "Llamando a la función compara"
+        Clock.schedule_interval(self.compara, 0.1)
+
+        
+    def compara(self, dt):
+        NUID =  array[i].split(",")
+        print NUID[0]
+        Nuid = str(NUID[0])
+        if ( Nuid == nuid):
+            print "El NUID coincide"
+            Clock.unschedule(self.compara)
+            return True
+        
+        if ( Nuid != nuid):
+            print "El NUID no coincide"
+            i = i+1
+
+#        if (i == len(array) ):
+ #           if ( Nuid == nuid):
+  #              print "El NUID coincide"
+   #             Clock.unschedule(self.compara)
+    #            return True
+        
+     #       if ( Nuid != nuid):
+      #          print "El NUID no coincide"
+       #         Clock.unschedule(self.compara)
+        #        return False
+                
+            
+ #   def __init__(self):
+  #      print "Cargando la base de datos."
+   #     self.CargarArray()
+    #    print "Base de datos cargada."
+        
+            
+#    def __del__(self):
+ #       print "Destructor de la clase comparar usuario."
+
+revisar = CompararUsuario()
+revisar.CompararArray("C0C67A52")

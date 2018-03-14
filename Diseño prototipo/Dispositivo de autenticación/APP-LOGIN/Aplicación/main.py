@@ -266,6 +266,8 @@ class LoginApp(App):
             rl2.clear_widgets()
         except:
             pass
+
+
 # ----------------------------------------------------------------------------
 #-----------------------------------------------------------------------------
 
@@ -365,7 +367,7 @@ class LoginApp(App):
         if estado == 2:
             print "Se encontro coincidencia deteniendo el hilo"
             Clock.unschedule(self.EsperarComparacion)
-
+            self.ClaveEncontrada()
 
         if estado == 3:
             print "No Se encontro coincidencia deteniendo el hilo"
@@ -376,6 +378,64 @@ class LoginApp(App):
 #-------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------
 
+
+#------------------------------------------------------------------------------------
+#-------------------Defino la función clave encontrada
+
+    def ClaveEncontrada(self):
+        self.timexit = 0
+        try:
+            from jnius import autoclass
+            import time 
+            Env = autoclass('android.os.Environment')
+            env = Env
+            infoTIME = str(time.strftime("%c"))
+            msj1 = str(SL.bufferLectura()) + " "+ infoTIME + "\n"
+            print "======================================================="
+            print "======================================================="
+            print "======================================================="
+            print "======================================================="
+            print "======================================================="
+            print 
+            svar = "../../../../../storage/sdcard0/"+env.DIRECTORY_DOWNLOADS + "/LoginApp.text"
+            sd = open(svar, "w")
+            sd.write("True")
+            sd.close()
+            svar2 = "../../../../../storage/sdcard0/"+env.DIRECTORY_DOWNLOADS + "/infoLoginApp.text"
+            sd1 = open(svar2, "a")
+            sd1.write(msj1)
+            sd.close()
+            print "======================================================="
+            print "======================================================="
+            print "======================================================="
+            print "======================================================="
+            print "======================================================="
+            Clock.schedule_interval(self.timeExit, 1)
+            rl1.pos=(-1000, 0)
+            textINpass.text = ""
+            Mensaje = "Usuario aceptado, cerrando la App.\n Espere por favor ..."
+            lblAlerta.pos_hint={'center_x': .45, 'center_y': .5}
+            lblAlerta.text = Mensaje
+
+        except:
+            rl1.pos=(-1000, 0)
+            textINpass.text = ""
+            Mensaje = " Usuario aceptado, cerrando la App. \n Espere por favor ..."
+            lblAlerta.pos_hint={'center_x': .45, 'center_y': .5}
+            lblAlerta.text = Mensaje
+            Clock.schedule_interval(self.timeExit, 1)
+#            LoginApp().exit()
+
+            #                print env.DIRECTORY_DOWNLOADS
+            pass
+
+    def timeExit(self, dt):      
+        if self.timexit == 4:
+            LoginApp().get_running_app().stop()
+        else:
+            self.timexit = self.timexit  + 1
+
+#------------------------------------------------------------------------------------
 
 #-------------------------------------------------------------------------------------
 #------------------------ FUNCIÓN DORMIR, quita todos los procesos y vuelve al login--
@@ -445,7 +505,7 @@ class LoginApp(App):
             try:
                 btnCambiarpass.unbind(on_press=self.cambiarpass)
             except:
-                pass            
+                pass
             Mensaje = ""
             lblAlerta.pos  = (180, 0)
             lblAlerta.text= Mensaje

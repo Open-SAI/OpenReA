@@ -59,8 +59,8 @@ class ScreenLogin(RelativeLayout):
         try:            
             self.blueRequest =  ArduinoB.LeerCADENA() # LECTURA DEL BLUETOOTH ALMACENDA EN UNA VARIABLE            
         except:
+            self.blueRequest = " 12342 "
             pass
-#        self.blueRequest = "Pedaso_deBasura"
         if ((self.blueRequest== "Nada")or(len(self.blueRequest)<5)):
 
             if (self.cont1 <= 2):
