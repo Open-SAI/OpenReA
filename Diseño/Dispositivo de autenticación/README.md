@@ -1,5 +1,6 @@
 Aplicación que permite al usuario autenticarse en la aplicación de apoyo logístico.
 <img src="https://github.com/Open-SAI/ReA/blob/master/Dise%C3%B1o/Dispositivo%20de%20autenticaci%C3%B3n/APP-LOGIN/Documentos/ImagenesAPP/Screenshot_2018-03-05-17-23-20.png">
+
 #h1 Logíca de funcionamiento
 * Funciones:
   * Paso 1: Conectar con el dispositivo bluetooth
