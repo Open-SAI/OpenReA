@@ -1,4 +1,4 @@
-# A continuación se listan los programas utilizados con sus respectivas versiones en el stack de kivy:
+# Tabla de versionamiento, stack de desarrollo
 
 * Debian 9.3 stretch de 32 bit.
 * python 2.7
