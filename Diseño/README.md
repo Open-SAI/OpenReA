@@ -1,6 +1,10 @@
 ## DISEÑO PROTOTIPO
 ### Documento de diseño con la arquitectura e información utilizada asociada a la especificación del prototipo
 
+* Integración API navegación/posicionamiento bajo techo
+
+[![Indoor NAV](http://img.youtube.com/vi/puzDdvE8Y-0/0.jpg)](http://www.youtube.com/watch?v=puzDdvE8Y-0)
+
 * Pendiente el desarrollo estructurado del sistema y la arquitectura general del sistema.
   * Compponentes de la aplicación.
     * WifiList: 
