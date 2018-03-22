@@ -6,6 +6,7 @@
 #include <SoftwareSerial.h>
 #include <TinyGPS.h>
 
+//Tx al 10; Rx al 11
 SoftwareSerial SerialGPS(10, 11);   //conexión serial con el GPS
 
 int ValorE; //Variable del valor de voltaje por el lm35
