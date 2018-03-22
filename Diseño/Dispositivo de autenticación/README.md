@@ -10,4 +10,4 @@ Aplicación que permite al usuario autenticarse en la aplicación de apoyo logí
   
 #h3 Test de la App
 El test se realizo con Telenium y se prueba el funcionamiento total de la App
-<img src=https://github.com/Open-SAI/ReA/blob/master/Dise%C3%B1o/Dispositivo%20de%20autenticaci%C3%B3n/APP-LOGIN/Documentos/Testeos/imagenesTest/test0.png">
+<img src="https://github.com/Open-SAI/ReA/blob/master/Dise%C3%B1o/Dispositivo%20de%20autenticaci%C3%B3n/APP-LOGIN/Documentos/Testeos/imagenesTest/test0.png">
