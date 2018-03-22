@@ -8,4 +8,6 @@ Aplicación que permite al usuario autenticarse en la aplicación de apoyo logí
   * Paso 4: Si el dato coincide con el el número de referencia del usuario, generararchivo de bloque de autenticacción.  Notifique por pantalla y finalice aplicación.
   * Paso 5: Si el dato no coincide con el número de referencia del usuario, enviar un notificación en el screen de usuario no valido, y volver al paso 3.
   
-
+#h3 Test de la App
+El test se realizo con Telenium y se prueba el funcionamiento total de la App
+<img src=https://github.com/Open-SAI/ReA/blob/master/Dise%C3%B1o/Dispositivo%20de%20autenticaci%C3%B3n/APP-LOGIN/Documentos/Testeos/imagenesTest/test0.png">
