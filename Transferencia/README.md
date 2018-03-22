@@ -1,8 +1,9 @@
-Metodología virtual autodidacta para la transferencia de conocimiento.
-======================================================================
+## Esquema pedagóco
+Se utilizará una metodología virtual, soportada en un proceso autodidacta para soportar la transferencia de conocimiento.
+
+Se integrará como apoyo 2 sesiones prácticas con los grupos objetivo para validar los contenidos y herramientas desarrolladas.
 
 Componentes:
-____________
 
 * Índice temático.
 * Material didáctico pedagogíco:
@@ -25,8 +26,4 @@ ____________
 * Horas de edición: 23 horas
 * Ínfografias: 3 horas
 * Guía de supervivencia: 10 horas
-#### Total horas recursos pedagógicos didácticos: 54 horas (7 días, 8 horas laborables)
 
-## [Ir a la parametrización del material pedagógico](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/README.md)
-
-===============================================================================
