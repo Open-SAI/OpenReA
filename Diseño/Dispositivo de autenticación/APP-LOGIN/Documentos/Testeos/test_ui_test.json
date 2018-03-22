@@ -1,0 +1,84 @@
+{
+    "env": {},
+    "settings": {
+        "application-timeout": "10",
+        "command-timeout": "5",
+        "entrypoint": "/home/debianita86/Documentos/Autenticacion/main.py",
+        "project": "Test"
+    },
+    "tests": [
+        {
+            "id": "1d43b646-230a-4708-b18a-c5ffeb01b43a",
+            "name": "New test",
+            "steps": [
+                [
+                    "assertExists",
+                    "//ActionView",
+                    "",
+                    ""
+                ],
+                [
+                    "assertExists",
+                    "//ActionBar",
+                    "",
+                    ""
+                ],
+                [
+                    "assertExists",
+                    "//ActionGroup",
+                    "",
+                    ""
+                ],
+                [
+                    "assertExists",
+                    "//ActionPrevious",
+                    "",
+                    ""
+                ],
+                [
+                    "wait_click",
+                    "//ActionPrevious",
+                    "",
+                    ""
+                ],
+                [
+                    "wait_click",
+                    "//ActionGroup",
+                    "",
+                    ""
+                ],
+                [
+                    "assertExists",
+                    "//TextInput",
+                    "",
+                    ""
+                ],
+                [
+                    "wait_click",
+                    "//TextInput",
+                    "",
+                    ""
+                ],
+                [
+                    "setAttribute",
+                    "//TextInput",
+                    "text",
+                    "\"diego\""
+                ],
+                [
+                    "assertExists",
+                    "//ActionButton",
+                    "",
+                    ""
+                ],
+                [
+                    "wait_click",
+                    "//ActionGroup",
+                    "",
+                    ""
+                ]
+            ]
+        }
+    ],
+    "version_format": 3
+}
