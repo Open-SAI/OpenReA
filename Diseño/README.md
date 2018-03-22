@@ -1,3 +1,5 @@
+## DISEÑO PROTOTIPO
+### Documento de diseño con la arquitectura e información utilizada asociada a la especificación del prototipo
 * Pendiente el desarrollo estructurado del sistema y la arquitectura general del sistema.
   * Compponentes de la aplicación.
     * WifiList: 
