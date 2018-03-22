@@ -20,7 +20,12 @@ ____________
   * Evidencia en vídeo del trabajo del estudiante. 
   * Retroalimentación virtual.
 
-
+### Métricas de trabajo pedagógico
+* Horas de vídeo: 18 horas
+* Horas de edición: 23 horas
+* Ínfografias: 3 horas
+* Guía de supervivencia: 10 horas
+#### Total horas recursos pedagógicos didácticos: 54 horas (7 días, 8 horas laborables)
 
 ## [Ir a la parametrización del material pedagógico](https://github.com/Open-SAI/ReA/blob/master/Proceso%20transferencia%20de%20conocimiento/Documentos%20pedag%C3%B3gicos/README.md)
 
