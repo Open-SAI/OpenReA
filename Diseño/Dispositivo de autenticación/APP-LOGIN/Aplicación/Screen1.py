@@ -16,7 +16,7 @@ class ScreenLogin(RelativeLayout):
 
         
         self.rl = RelativeLayout()
-        self.lb  = Label(font_size="15 dp",pos_hint={'center_x': .5, 'center_y': .1} , markup=True)
+        self.lb  = Label(font_size="20 sp",pos_hint={'center_x': .5, 'center_y': .1} , markup=True)
 
 #============================================================================
 #esta parte es para agregar  la camaraen el layout
@@ -40,9 +40,9 @@ class ScreenLogin(RelativeLayout):
         
         self.rl.add_widget(self.lb)
         self.Procesos_Bluetooth()
-        self.mensaje1 = "[color=ff3333] Coloque su llave en el lector por favor."
+        self.mensaje1 = "[color=ff3333] Coloque su llave en el lector."
         self.blueRequest = "Nada"
-        Clock.schedule_interval(self.Cont1, 0.45) 
+        Clock.schedule_interval(self.Cont1, 0.8) 
         Clock.schedule_interval(self.IDENTIFICADOR_P, 0.3)
         return self.rl
 
@@ -59,7 +59,7 @@ class ScreenLogin(RelativeLayout):
         try:            
             self.blueRequest =  ArduinoB.LeerCADENA() # LECTURA DEL BLUETOOTH ALMACENDA EN UNA VARIABLE            
         except:
-            self.blueRequest = " 12342 "
+            self.blueRequest = " 123142 "
             pass
         if ((self.blueRequest== "Nada")or(len(self.blueRequest)<5)):
 
@@ -93,7 +93,7 @@ class ScreenLogin(RelativeLayout):
             for i in range (1, len(dataBlue), 1):
                 mensaje = mensaje + str(dataBlue[i])
             print mensaje                
-            self.mensaje1 = " [color=ff3333] NUID encontrada: " + str(mensaje)
+            self.mensaje1 = " [color=ff3333] NUID: " + str(mensaje)
             self.AvisON()
             self.blueRequest = str(mensaje)
             self.bufferLectura()
@@ -106,13 +106,13 @@ class ScreenLogin(RelativeLayout):
     # FUNCIÓN PARA ENCENDER LA LECTURA DE LA TARJETA NUEVAMENTE
     def ReiniciarLectura(self):
         self.blueRequest = "Nada"
-        self.mensaje1 = "[color=ff3333] Coloque su llave en el lector por favor."
+        self.mensaje1 = "[color=ff3333] Coloque su llave en el lector."
         try:
             Clock.unschedule(self.Cont1)
         except:
             pass
         try:
-            Clock.schedule_interval(self.Cont1, 0.45)
+            Clock.schedule_interval(self.Cont1, 0.8)
         except:
             pass
 
@@ -155,15 +155,27 @@ class ScreenLogin(RelativeLayout):
     #FUNCIÓN PARA ENCENDER EL BLUETOOTH     
     def EncenderBluetooth(self, *args):
         print "Llamado a prender"
+        Dispo1 = "HC-05" #MODULO BLUETOOTH
+        Dispo2 = "HC-06" #MODULO BLUETOOTH
         try:
-            Dispo = "HC-05"
-            ArduinoB.obtenerCorrienteEnchufe('HC-05')
+            ArduinoB.obtenerCorrienteEnchufe(Dispo1)
             Mensaje = "Dispositivo conectado"
             print Mensaje
         except:
-            Mensaje = "Dispositivo NO CONECTADO revise su conexion "
+            Mensaje = "Dispositivo HC-05 NO ENCONTRADO PROBANDO EL HC-06 "
             print Mensaje
-            ArduinoB.obtenerCorrienteEnchufe("HC-05")
+            #            ArduinoB.obtenerCorrienteEnchufe(Dispo1)
+            #            pass
+            try:
+                
+                ArduinoB.obtenerCorrienteEnchufe(Dispo2)
+                Mensaje = "Dispositivo conectado"
+                print Mensaje
+            except:
+                Mensaje = "Dispositivo HC-06 NO ENCONTRADO PASANDO A MODO AUTONOMO "
+                print Mensaje
+                #           ArduinoB.obtenerCorrienteEnchufe("HC-06")
+                pass
 
 
 
@@ -209,10 +221,10 @@ class ScreenLogin(RelativeLayout):
                 Clock.unschedule(self.Cont1)
             except: 
                 pass
-            try:
-                ArduinoB.__del__()
-            except:
-                pass
+       #     try:
+        #        ArduinoB.__del__()
+         #   except:
+          #      pass
             
 
 

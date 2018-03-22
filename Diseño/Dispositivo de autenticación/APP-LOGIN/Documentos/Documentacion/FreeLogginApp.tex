@@ -1,0 +1,145 @@
+% version 12
+% Autor: Julian Salamanca
+% Institución: Universidad Distrital Francisco José de Caldas
+% Fecha: 09AGO2013
+% Diego Alberto Parra Garzón 
+\documentclass[jou]{apa6} %journal stilo APA con citacion clasica (apacite.pdf)
+%\documentclass[doc]{apa6} % journal estilo latex
+%\documentclass[man]{apa6}  % manuscrito APA
+
+\usepackage[toc,page]{appendix}
+\usepackage{balance}
+\usepackage{multicol}
+\usepackage{pdfpages}
+\usepackage{afterpage}
+\usepackage{float}
+\usepackage{url}
+
+\usepackage[spanish]{babel}
+%\usepackage[latin1]{inputenc}% Tildes
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\urlstyle{same}
+
+%====================================================================
+%Para que no parta las palabras con guiones al final de linea
+\usepackage[none]{hyphenat} 
+\tolerance=6000
+%====================================================================
+
+
+
+%Stilo citaciones APA (debe ir despues de "hyperref ")
+\usepackage{apacite} 
+
+% para compilar eps con: pdflatex -shell-escape <archivo>.tex
+\usepackage{epstopdf} 
+
+\usepackage{amsmath, amsthm, amsfonts}
+\usepackage{graphicx,wrapfig,lipsum}
+\usepackage{anysize} 
+\usepackage{fancyhdr}%
+\pagestyle{fancy}
+\marginsize{3cm}{3cm}{2,5cm}{2,5cm} 
+%\fancypagestyle{empty}{
+
+%  \setlength{\topmargin}{-0.5in}
+%  \setlength{\headheight}{1.05in}
+%  \setlength{\headsep}{0.5in}
+%  \setlength{\headwidth}{\textwidth}
+%  \setlength{\footskip}{2.0in}
+
+ % \renewcommand{\headrulewidth}{0pt}
+
+  % ========== EDITAR LOGO GRUPO =========================
+
+%  \fancyhead[L]{
+ %   \includegraphics[width=2.0cm, height=2.0cm]{LogoGI}
+  %  \vspace{-1.0cm}
+  %}
+  % ========== FIN NO EDITAR LOGO GRUPO =================
+  
+
+  % ========== NO EDITAR LOGO UD =========================
+
+%  \fancyhead[R]{
+ %   \includegraphics[width=5.5cm, height=1.2cm]{img/logo_UD_EXT}
+ % }
+  % ========== FIN NO EDITAR ===========================
+  
+
+%}
+
+
+\title{Montaje de un sistema  tipo RFID con comunicación Bluetooth para autenticación}
+
+\shorttitle{ARTICULO PROTOTIPO GPS SENA}
+
+%==================== AUTOR (ES) ========================
+\author{Lic. en Física Diego Alberto Parra Garzón \\ \href{mailto:{dparra@opensai.org}}{dparra@opensai.org}}
+\date{\today}
+\affiliation{OPENSAI, SENA}
+\leftheader{Diego Parra}
+%==================== FIN AUTOR (ES) ====================
+
+%==================== RESUMEN ========================
+\abstract{
+\begin{center}
+\textbf{Abstrac}
+\end{center}
+
+
+The present writing done a description detailed and understandable the mounting of two prototype GPS for the transmission of geo-location data to the glasses smarth glass BT-300 EPSON; this due that sunglasses GPS sensor does not show the geo-location data as EPSON does not have good coverage satellite in Colombia due to the latitude where it is located, this confirmed the sr. Rafael Godinho Aranjues, Regional Business Manager EPSON Latin America (54) 11-5167-0404 rafael\_aranjues@epson.com.ar; the number one prototype has GPS, antenna 28 dB, thermometer, led processes, power supply of 5 V and Wi-Fi; the second prototype has Bluetooth, GPS with 28 dB antenna communications, thermometer, 16 x 4 LCD screen, processes, 5V and 9V power leds.
+
+
+\emph{\textbf{Keywords:} } IoT, FreeSotfware, OpenSource, Science, Technology, GPS, Bluetooth, WIFI, Smarth Glass, EPSON.
+
+\begin{center}
+\textbf{Resumen}
+\end{center}
+
+El presente escrito presenta de manera ordenada, precisa y entendible el desarrollo de un sistema con el cual diverso tipo de usuarios de una empresa, colegio, centro de salud u otra entidad puedan ingresar u obtener acceso a diferentes servicios presentando su tarjeta o llave de radiofrecuencia, en esta sección solo se presenta el diseño del sistema de hardware y firmware, como a su vez debe considerarse este escrito como un recetario técnico de dicho sistema.
+
+\emph{\textbf{Palabras Claves:} } IoT, FreeSotfware, OpenSource, Ciencia, Tecnología, GPS, Bluetoth, WIFI, Smarth Glass, EPSON.
+
+}
+
+%==================== FIN RESUMEN ========================
+
+\begin{document}
+
+%================  NO EDITAR =================
+\renewcommand{\tablename}{Tabla} %"Cuadro" por "Tabla"
+\renewcommand{\refname}{Referencias} %"Cuadro" por "Tabla"
+\def\st@rtbibsection{\mspart{Referencias}}% ``References'' por ``Referencias'
+\renewcommand{\rheadname}{Encabezado de página}% Running head (encabezado de pagina)
+\renewcommand{\acksname}{Nota de Autor}% 
+\renewcommand{\keywordname}{Palabras clave}% 
+\renewcommand{\listtablename}{Índice de tablas}% 
+\renewcommand{\BOthers}[1]{et al.\hbox{}}
+\renewcommand{\appendixname}{Ap} %"Cuadro" por "Tabla"
+\renewcommand{\appendixname}{Anexo}
+\renewcommand{\appendixname}{Anexos}
+\renewcommand{\appendixtocname}{Anexos}
+\renewcommand{\appendixpagename}{Anexos}
+\maketitle
+
+
+%============== TABLA DE CONTENIDO ===============
+
+\tableofcontents
+\listoffigures
+%\listoftables
+
+%=================INTRODUCCION ============
+\section{Introducción}
+
+
+\bibliographystyle{apacite}
+\bibliography{referencias}
+\end{document}
+
+
+
+
+

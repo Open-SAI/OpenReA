@@ -61,7 +61,7 @@ class LoginApp(App):
     addUSER = ScreenAgregarUser()
     deleteUSER = ScreenDeleteUser()
     
-    lblAlerta = Label( pos_hint={'center_x': .7, 'center_y': .25}, text="", font_size="20dp", markup=True)
+    lblAlerta = Label( pos_hint={'center_x': .7, 'center_y': .25}, text="", font_size="20sp", markup=True)
 
 # ________________ defino los textInput    
     textIN = TextInput(size_hint_y=0.2, size_hint_x=0.7, pos_hint={'center_x': .45, 'center_y': .25}, font_size="20dp", multiline=False)
