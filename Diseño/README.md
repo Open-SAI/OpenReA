@@ -1,5 +1,9 @@
 ## DISEÑO PROTOTIPO
 ### Documento de diseño con la arquitectura e información utilizada asociada a la especificación del prototipo
+<img src="https://github.com/Open-SAI/ReA/blob/master/Dise%C3%B1o/Dispositivo%20de%20autenticaci%C3%B3n/APP-LOGIN/Documentos/ImagenesAPP/Screenshot_2018-03-05-17-23-20.png" width="600" heigth="1000">
+
+<img src="https://github.com/Open-SAI/ReA/blob/master/Dise%C3%B1o/Dispositivo%20de%20autenticaci%C3%B3n/APP-LOGIN/Documentos/ImagenesAPP/Screenshot_2018-03-04-18-58-58.png" width="600" heigth="1000"> 
+
 * Pendiente el desarrollo estructurado del sistema y la arquitectura general del sistema.
   * Compponentes de la aplicación.
     * WifiList: 
