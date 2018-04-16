@@ -1,7 +1,0 @@
-\select@language {spanish}
-\contentsline {section}{Introducci\IeC {\'o}n}{1}{section*.3}
-\contentsline {section}{\texttt {Internet de las cosas}}{2}{section*.4}
-\contentsline {section}{Datos masivos}{2}{section*.5}
-\contentsline {section}{Experiencia Opensai}{3}{section*.6}
-\contentsline {section}{Taller IoT}{4}{section*.8}
-\contentsline {section}{Referencias}{5}{section*.13}
